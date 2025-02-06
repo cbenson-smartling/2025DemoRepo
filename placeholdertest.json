@@ -3,5 +3,14 @@
 "key" : "placeholder <<this string too>>",
   "key3" : "placeholder ^^more^^ of this next ^^word^^",
   "key4" : "/hello.com",
-  "key5" : "https://www.google.com"
+  "key5" : "welcome yo https://www.google.com",
+  "key6" : "hello/test/bye",
+  "content_asset_1": {
+    "message": "this is a link: https://www.google.com that should not ingest",
+    "description": "This is a new instruction added in the review step"
+  }
+  "content_asset_2": {
+    "message": "this is a string that should ingest",
+    "description": "This is a new instruction added in the review step"
+  }
 }
