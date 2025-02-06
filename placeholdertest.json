@@ -8,7 +8,7 @@
   "content_asset_1": {
     "message": "this is a link: https://www.google.com that should not ingest",
     "description": "This is a new instruction added in the review step"
-  }
+  },
   "content_asset_2": {
     "message": "this is more a string that should ingest",
     "description": "This is a new instruction added in the review step"
