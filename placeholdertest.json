@@ -1,4 +1,5 @@
 {
 "key1" : "placeholder this next ^^word^^",
-"key" : "placeholder <<this string too>>"
+"key" : "placeholder <<this string too>>",
+  "key3" : "placeholder more of this next ^^word^^"
 }
