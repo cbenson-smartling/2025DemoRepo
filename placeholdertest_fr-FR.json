@@ -1,0 +1,16 @@
+{
+  "key1" : "placeholder more text ^^this^^ next ^^word^^",
+  "key" : "placeholder &lt;<this string too>&gt;",
+  "key3" : "placeholder ^^more^^ of this next ^^word^^",
+  "key4" : "/hello.com",
+  "key5" : "welcome more yo https://www.google.com",
+  "key6" : "hello/test/bye",
+  "content_asset_1" : {
+    "message" : "this is a link: https://www.google.com that should not ingest",
+    "description" : "This is a new instruction added in the review step"
+  },
+  "content_asset_2" : {
+    "message" : "this is more a string that should ingest",
+    "description" : "This is a new instruction added in the review step"
+  }
+}

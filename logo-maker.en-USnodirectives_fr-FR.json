@@ -1,0 +1,866 @@
+{
+  "bc" : {
+    "heroBanner" : {
+      "title" : "Logo Maker",
+      "subTitle" : "Make a beautiful logo in seconds. Try it for Free!",
+      "imageAlt" : "",
+      "search" : {
+        "searchPlaceholder" : "Enter Your Business Name",
+        "searchPlaceholderShort" : "Enter Your Business Name",
+        "searchButtonLabel" : "Start Now",
+        "searchButtonText" : "Start Now",
+        "maxLengthError" : "Please enter a business name that is less than 100 characters"
+      }
+    },
+    "mainTitle" : {
+      "title" : "Make a logo you'll love, instantly. Try for free.",
+      "description" : "Whether you need a beauty logo, a logo for your real estate business or even a logo for your new startup, we help you generate thousands of logo designs in seconds."
+    },
+    "customHowItWorks" : {
+      "title" : "Create the perfect logo for your business, in seconds",
+      "description" : "With over {liveLogoCount}+ logo designs, you'll have no trouble finding your dream logo. BrandCrowd's logo maker has a design suitable for any industry. Create a beautify logo with ease - here's how it works:",
+      "items" : [
+      {
+        "title" : "Generate logo designs",
+        "content" : "Getting started with BrandCrowd's logo maker is easy. Simply enter your business name and let our advanced logo maker algorithms create beautiful logo designs, instantly. It's then as easy as browsing thousands of logos tailored with your business name and finding a design that's perfect for you. If you need a more specific logo, something with a special theme - no problem! Our advanced logo generator can create new logos based on keywords - just enter some relevant terms to refine the logos and find a design that's perfect for your business.",
+        "imageUrl" : "",
+        "imageAlt" : "",
+        "ctaLabel" : "Generate logo designs",
+        "ctaUrl" : "/maker/logos",
+        "image" : {
+          "imageAlt" : "Logo maker example designs"
+        }
+      },
+
+      {
+        "title" : "Customize your logo",
+        "content" : "Found a logo you love? Excellent! Now it's a breeze to make that logo standout. With a few clicks you can change the logo colors, fonts and layout. Moving the logo icon or adjusting the spacing of the design is simple - there's virtually no limit to what you can do with our advanced logo editing tools. You can create something bespoke by adding gradient colors, additional shapes or some curved text - it's easy to create a beautiful logo, perfect for your business.",
+        "imageUrl" : "",
+        "imageAlt" : "",
+        "ctaLabel" : "Create my logo",
+        "ctaUrl" : "/maker/logos",
+        "image" : {
+          "imageAlt" : "Logo maker tool preview"
+        }
+      },
+
+      {
+        "title" : "Download your logo!",
+        "content" : "It's really fun designing a logo - editing the colors and fonts, tweaking the position and changing the layout. Now you've crafted the perfect logo design it's time to download. Downloading your logo on BrandCrowd is instant. You'll get access to all the logo design files you need to start using your logo - files suitable for your website, social media pages, business cards and merch. We'll also send you an email with a link to your logo files so you can find them easily. We'll store your logo files as well, so if you ever need to download them again you can! Your logo comes with the following:",
+        "imageUrl" : "",
+        "imageAlt" : "",
+        "ctaLabel" : "Create a Logo",
+        "ctaUrl" : "/maker/logos",
+        "points" : [
+        {
+          "content" : "High-resolution logo files (PNG and JPG files) - perfect for your website"
+        },
+
+        {
+          "content" : "Vector logo files (SVG, EPS and PDF) - perfect for print"
+        },
+
+        {
+          "content" : "Logo files with transparent backgrounds"
+        },
+
+        {
+          "content" : "Multiple variations of your logo"
+        }],
+        "image" : {
+          "imageAlt" : " Logo download file types"
+        }
+      }]
+    },
+    "whatYouGet" : {
+      "title" : "Here's what you get",
+      "description" : "",
+      "items" : [
+      {
+        "iconName" : "logo",
+        "imageAlt" : "Premium logo designs",
+        "title" : "Premium Logo Designs",
+        "description" : "Every logo in our library is unique. Logos are handcrafted by professional designers ensuring that each and every logo is high-quality."
+      },
+
+      {
+        "iconName" : "bezier-curve",
+        "imageAlt" : "High-res logo design file",
+        "title" : "All The Files You Need",
+        "description" : "Get high-res logo files (PNG and JPG) for your website & vector files (SVG, EPS and PDF) ready for print."
+      },
+
+      {
+        "iconName" : "palette",
+        "imageAlt" : "Logo color and layouts",
+        "title" : "Color and Layout Variations",
+        "description" : "With BrandCrowd's advanced logo editor there's infinite color and layout options for your logo. Choose any layout and color combinations you like."
+      },
+
+      {
+        "iconName" : "card",
+        "imageAlt" : "Business cards",
+        "title" : "Business Card Templates",
+        "description" : "Choose from thousands of beautiful &lt;a class=&quot;tw-no-underline tw-text-info-500 hover:tw-text-info-600&quot; href=&quot;/business-card-maker&quot;&gt;business card templates&lt;/a&gt;, customised with your logo colors to match your brand."
+      },
+
+      {
+        "iconName" : "annotate-heart",
+        "imageAlt" : "Social media templates",
+        "title" : "Social Media Templates",
+        "description" : "Create social media designs including &lt;a class=&quot;tw-no-underline tw-text-info-500 hover:tw-text-info-600&quot; href=&quot;/instagram-post-maker&quot;&gt;Instagram posts&lt;/a&gt; &amp; &lt;a class=&quot;tw-no-underline tw-text-info-500 hover:tw-text-info-600&quot; href=&quot;/instagram-story-maker&quot;&gt;stories&lt;/a&gt; automatically customized with your logo colors."
+      },
+
+      {
+        "iconName" : "file-empty",
+        "imageAlt" : "Brand Identity templates",
+        "title" : "Brand Identity Templates",
+        "description" : "Create &lt;a class=&quot;tw-no-underline tw-text-info-500 hover:tw-text-info-600&quot; href=&quot;/letterhead-maker&quot;&gt;letterheads,&lt;/a&gt; &lt;a class=&quot;tw-no-underline tw-text-info-500 hover:tw-text-info-600&quot; href=&quot;/email-signature-maker&quot;&gt;email signatures&lt;/a&gt; matched to your logo colors to complete your brand identity."
+      },
+
+      {
+        "iconName" : "pen",
+        "imageAlt" : "Unlimited logo customization",
+        "title" : "Unlimited Customization",
+        "description" : "Change the layout, colors and font on your logo. Get unlimited edits and create as many variations as you want."
+      },
+
+      {
+        "iconName" : "headphones",
+        "imageAlt" : " 24/7 design support",
+        "title" : "Support",
+        "description" : "With 24/7 support from our team of logo experts, you're always looked after from logo creation to download and beyond."
+      },
+
+      {
+        "iconName" : "award",
+        "imageAlt" : " Royalty free logos",
+        "title" : "Royalty Free Logos",
+        "description" : "Get a worldwide, irrevocable license to use your logo for any commercial and non-commercial purpose."
+      }]
+    },
+    "advantages" : {
+      "title" : "Powerful, intuitive logo and branding tools",
+      "image" : {
+        "imageAlt" : "Branding image"
+      },
+      "items" : [
+      {
+        "title" : "The first step for your business is a beautiful logo",
+        "content" : "One of the first things you think of when starting a business is the logo design. It's a fact that everyone needs a great logo for their business. At BrandCrowd we've made it simple to create the perfect logo design with our online logo maker. Using advanced algorithms, powerful yet intuitive editing tools and high quality logos you can get the dream logo for your business in seconds. With the ability to edit colors, fonts, layout and more, you can create that stunning logo now. You can search, browse and customize all the logos at BrandCrowd for free - make a logo you love in seconds - what's stopping you?",
+        "imageAlt" : "Logo maker example logos",
+        "ctaLabel" : "Find your logo",
+        "image" : {
+          "imageAlt" : "Branding image"
+        }
+      },
+
+      {
+        "title" : "Create the perfect logo design in seconds",
+        "content" : "Starting a new business? No doubt you've got zero time to think about the importance of a logo design for your brand. At BrandCrowd we understand this. That's why we've invested in creating a logo editing tool that's not just user-friendly and intuitive it's also immensely powerful. In next to no time you can find a logo for your business, then in a few clicks edit every aspect of the logo to make it perfect. Choose from hundreds of logos, then edit fonts, change the layout, customize colors and add embellishments such as shapes, curved text and gradient colors. You can have a beautiful logo for your business in just a few clicks - it's free to try.",
+        "imageAlt" : "Logo maker editing tools",
+        "ctaLabel" : "Create your logo",
+        "ctaUrl" : "/maker/logos",
+        "image" : {
+          "imageAlt" : "Branding image"
+        }
+      },
+
+      {
+        "title" : "Get the perfect logo, then build a stunning brand",
+        "content" : "Getting a memorable logo is definitely an important part of starting a new business - but it's not the end. A great logo needs to be used in the right way to create a lasting impression for your brand. At BrandCrowd, we've architected our advanced design tools so that your designs always match your logo and stay on brand. Create stunning business cards, engaging social media posts and user-friendly websites that inherit your logo colors - all customizable with our powerful design editing tools. You can then promote your new brand with branded stationery, merch, office supplies and print materials - making BrandCrowd the all-in-one business branding destination - get started now and launch your business.",
+        "imageAlt" : "Logo maker branding examples",
+        "ctaLabel" : "Get your logo",
+        "ctaUrl" : "/maker/logos",
+        "image" : {
+          "imageAlt" : "Branding image"
+        }
+      }]
+    },
+    "assetsButton" : {
+      "label" : "Browse handcrafted logos"
+    },
+    "howToCreate" : {
+      "title" : "How to create that perfect logo",
+      "description" : "Not sure where to start? Need some help creating a great logo? Here's a few bitesized tips from the pros:",
+      "items" : [
+      {
+        "iconName" : "text",
+        "imageAlt" : "Logo type",
+        "title" : "Logo type",
+        "description" : "Did you know there's an array of different logo types to choose from? What choice you make depends on the message you want your logo to convey  - You can have a logo with just text or just an an icon or maybe it should have both? This is a critical decision in the logo design process. &lt;br&gt;&lt;br&gt;&lt;a class='tw-no-underline tw-text-info-500 hover:tw-text-info-600' href='https://www.brandcrowd.com/blog/the-8-types-of-logos-and-which-one-is-for-you/'&gt;Find out more&lt;/a&gt;"
+      },
+
+      {
+        "iconName" : "palette",
+        "imageAlt" : "Logo colors",
+        "title" : "Logo colors",
+        "description" : "There's a whole world of color theory and psychology that most consumers aren't aware of. As a business owner it pays to choose the right colors for your logo. Want to convey seriousness or maybe you want your brand to appear adventurious or sporty. Choosing the right colors for your is key to getting the message right.&lt;br&gt;&lt;br&gt;&lt;a class='tw-no-underline tw-text-info-500 hover:tw-text-info-600' href='https://www.brandcrowd.com/blog/understanding-color-theory-for-beginners/'&gt;Find out more&lt;/a&gt;"
+      },
+
+      {
+        "iconName" : "font",
+        "imageAlt" : "Logo font",
+        "title" : "Logo font",
+        "description" : "It's not only the colors and logo type that convey meaning, so too can your fonts selection. Clean, bold typography can help to re-inforce a trustworthy message, whereas a softer font can can mean something more playful? Choosing the right font is vital to getting a great logo.&lt;br&gt;&lt;br&gt;&lt;a class='tw-no-underline tw-text-info-500 hover:tw-text-info-600' href='https://www.brandcrowd.com/blog/how-typography-impacts-your-brand-and-how-to-pick-the-right-one/'&gt;Find out more&lt;/a&gt;"
+      }]
+    },
+    "tutorialSearch" : {
+      "title" : "Get started with BrandCrowd's Logo Maker",
+      "description" : "Enter your business name and we'll start creating logos in seconds...",
+      "searchTitle" : "Get started with BrandCrowd's Logo Maker",
+      "searchPlaceholder" : "Enter your business name",
+      "searchPlaceholderShort" : "Search by keyword",
+      "ctaButtonLabel" : "Generate Logos",
+      "maxLengthError" : "Please enter a business name that is less than 100 characters"
+    },
+    "whyShouldUse" : {
+      "items" : [
+      {
+        "title" : "Make your dream logo - in seconds!",
+        "content" : "Why should you use BrandCrowd Logo Maker to create your logo?",
+        "points" : [
+        {
+          "content" : "Our 236,000+ designs have all been handcrafted by a community of top designers. Get a stunning logo - always!",
+          "title" : "Unique designs"
+        },
+
+        {
+          "content" : "BrandCrowd Logo Maker is free to use. Browse thousands of different logo designs, edit and save as many as you like.",
+          "title" : "Free to use"
+        },
+
+        {
+          "content" : "Pick a design you like and start editing it. In seconds you can make a logo you will love.",
+          "title" : "It’s fast - create a logo in 2 minutes"
+        }],
+        "image" : {
+          "imageAlt" : "Branding image"
+        }
+      }],
+      "steps" : [
+      {
+        "position" : 1,
+        "name" : "Generate logo designs",
+        "text" : "To get started with BrandCrowd's logo maker just enter your business name and let our Logo Maker create amazing logo designs, instantly. You can browse thousands of logos tailored with your business name and find a design that's perfect for you. Looking for a more specific logo? No problem! You can enter keywords to refine the logos and find a design that really suits your business."
+      },
+
+      {
+        "position" : 2,
+        "name" : "Customize your logo",
+        "text" : "Once you've found a logo you love it's a breeze to change the logo colors, fonts and layout. Moving the logo icon or adjusting the spacing of the design is simple - there's virtually no limit to what you can do with our logo maker tool. You can create something bespoke by adding gradient colors, additional shapes or some curved text - it's easy to create your perfect logo."
+      },
+
+      {
+        "position" : 3,
+        "name" : "Download your logo",
+        "text" : "Now that you've crafted the perfect logo design it's time to download. Downloading your logo on BrandCrowd is instant and with all your logo design files available in your account you'll have everything you need to get your new brand setup. We'll also send your an email with a link to your logo files so you can find them easily."
+      }]
+    },
+    "testimonials" : {
+      "title" : "These businesses loved using BrandCrowd",
+      "testimonials" : [
+      {
+        "testimonial" : "BrandCrowd provided an excellent selection of high-quality images for viewing which allowed creative  ideas to spawn. The logo design that I selected fit my theme perfectly.",
+        "name" : "Joel Eady",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "BrandCrowd's selection of logos is vast and they make it very easy to customize fonts, colors and layouts. I was pleasantly surprised at how easy it was to create a great looking logo.",
+        "name" : "Paul Carlino",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "Brandcrowd is a great site to obtain a logo and brand. There are so many styles to choose from and it's extremely easy to navigate. I'm not a big techie person so I appreciated the simplicity of the site.",
+        "name" : "Lisa Ahumada",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "The process was so much easier than I imagined it would be. The ideas were amazing and created a lot of direction for me. Thank You BrandCrowd for being here.",
+        "name" : "Jody Secaur",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "Brandcrowd has been very user friendly. I’ve been very pleased with the designs and look forward to working together in the further with my new and upcoming business.",
+        "name" : "Jennifer Davenport",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "We love BrandCrowd because of the professional quality, the different versions of your logo, and branding tools at your fingertips. Great job.",
+        "name" : "Linous White",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "The price for making the logo was worth it! I wanted to create a new logo but I couldn't find any inspiration. I went here and they made the perfect logo for me. I love it, now I can start my business.",
+        "name" : "Monique Lopez",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "BrandCrowd is a great way to build brand recognition for your business. I love how customer friendly there online service is and it’s ability to have direct impact on critical details of building your brand.",
+        "name" : "Lawrence Williams",
+        "rating" : "5"
+      }]
+    },
+    "howToMake" : {
+      "title" : "How do I make a logo with BrandCrowd?",
+      "description" : "Creating your dream logo easy with BrandCrowd. Just follow these simple steps and you'll have a logo ready to share with the world in seconds.",
+      "items" : [
+      {
+        "iconName" : "search",
+        "imageAlt" : "Search-icon",
+        "title" : "1. Start searching:",
+        "description" : "To find logos relevant to your business enter your business name - We'll automatically show you logos related to your business. You can browse the logos and choose one you love."
+      },
+
+      {
+        "iconName" : "filter",
+        "imageAlt" : "Refine-search-icon",
+        "title" : "2. Refine your search:",
+        "description" : "If you can't find the perfect logo, you can refine your search by entering related keywords."
+      },
+
+      {
+        "iconName" : "heart",
+        "imageAlt" : "Logo-shortlist-icon",
+        "title" : "3. Create a logo shortlist",
+        "description" : "To make life easier you can \"shortlist\" logos that you like. Simply click the heart symbol and we\\'ll add the logos to your shortlist."
+      },
+
+      {
+        "iconName" : "pen",
+        "imageAlt" : "Edit-logo-icon",
+        "title" : "4. Edit your logo",
+        "description" : "Once you've found a logo that you love, you can customize the logo colors, fonts and layout. You can even add more embellishments with shapes."
+      },
+
+      {
+        "iconName" : "image",
+        "imageAlt" : "Preview-logo-icon",
+        "title" : "5. Preview your logo",
+        "description" : "When you're done editing you can easily preview your logo on apparal, signage and more to see how it looks in real life."
+      },
+
+      {
+        "iconName" : "download",
+        "imageAlt" : "Download-logo-icon",
+        "title" : "6. Download your logo",
+        "description" : "Once you're done customizing, you can download your logo - you'll get access to all the logo files you need, instantly"
+      }]
+    },
+    "logoTips" : {
+      "title" : "Logo design tips, tricks and insights",
+      "description" : "We've got heaps of useful logo design tips, tricks and insights to help you get the best logo.",
+      "image" : {
+        "imageAlt" : " Logo maker examples"
+      },
+      "items" : [
+      {
+        "title" : "The 8 Types of Logos >",
+        "description" : "The first step with any logo design is figuring out the type of logo you want. We'll show you the different logo types.",
+        "titleLinkUrl" : "https://www.brandcrowd.com/blog/the-8-types-of-logos-and-which-one-is-for-you/"
+      },
+
+      {
+        "title" : "What Makes Great Logo Text >",
+        "description" : "Learn more about text logos and how you can make a great logo using just typography.",
+        "titleLinkUrl" : "https://www.brandcrowd.com/blog/what-makes-a-great-text-logo/"
+      },
+
+      {
+        "title" : "Trademarking Your Logo >",
+        "description" : "Trademarking your logo can be complex. This guide will show you how to trademark a logo successfully.",
+        "titleLinkUrl" : "https://www.brandcrowd.com/blog/everything-you-need-to-know-about-logo-trademark/"
+      },
+
+      {
+        "title" : "How to Create a Logo >",
+        "description" : "Designing your logo is easy when you have the right tools. This comprehensive step-by-step video tutorial will show you how.",
+        "titleLinkUrl" : "https://www.brandcrowd.com/blog/how-to-create-your-own-business-logo/"
+      },
+
+      {
+        "title" : "Getting Logo Feedback >",
+        "description" : "Feedback is a crucial part in the logo design process. This is a guide to help you design a logo like a pro.",
+        "titleLinkUrl" : "https://www.brandcrowd.com/blog/how-to-ask-for-logo-design-critique/"
+      },
+
+      {
+        "title" : "Color Theory 101 >",
+        "description" : "Knowledge of color theory is a must for that perfect logo. Expand your design skills with this guide.",
+        "titleLinkUrl" : "https://www.brandcrowd.com/blog/understanding-color-theory-for-beginners/"
+      },
+
+      {
+        "title" : "Choosing Typography >",
+        "description" : "The number of typefaces and fonts for your logo is overwhelming. This guide aims to demystify the process of typography.",
+        "titleLinkUrl" : "https://www.brandcrowd.com/blog/how-typography-impacts-your-brand-and-how-to-pick-the-right-one/"
+      },
+
+      {
+        "title" : "A Guide to Brand Identity >",
+        "description" : "Starting a new business is hard and nailing your brand identity is a must. Learn how here.",
+        "titleLinkUrl" : "https://www.brandcrowd.com/blog/developing-a-brand-identity-for-beginners/"
+      }]
+    },
+    "faq" : {
+      "title" : "Frequently asked questions",
+      "description" : "Creating that perfect logo with BrandCrowd is easy - but just in case, here's some FAQs to help you get started.",
+      "questions" : [
+      {
+        "question" : "What is the BrandCrowd logo maker?",
+        "answer" : "&lt;p&gt;BrandCrowd's logo maker allows you to generate and customize stand-out logos in minutes. BrandCrowd gives you access to a professional library of thousands of customizable logo designs - making creating your logo inexpensive and straightforward. Our logos, created by designers around the globe, give you unlimited possibilities.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "Do I get a transparent version of my logo?",
+        "answer" : "&lt;p&gt;Absolutely! A transparent version of your logo is provided when you download in a PNG format. Even if you've chosen a solid background for your logo, we'll provided a version of your logo with a transparent background for your convenience - perfect for use on your website.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "What layout works best for logos?",
+        "answer" : "&lt;p&gt;You want your logo to standout above competitors. Your logo should tell your audience, customers, fans and competitors that you mean business. There's no single answer for what layout your logo should have - but keep in mind what message your want to convey with your logo. A simple layout can convey elegance and sophistication, while a more dynamic layout can mean fun or adventure. Search our logo collection for a design then customize it according to your needs. Remember you can also research logos - pay attention to their layout, color choices, design themes and fonts.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "What text should I choose for my logo?",
+        "answer" : "&lt;p&gt;What's in a name? If you haven't already got a name for your logo then here's some tips. You want to use text and a name that describes your business, the caliber of service you provide and one that resonates with customers. If you're stumped, research other companies with logos for inspiration. Remember your logo should have a catchy and non-offensive name that's sits well with the whole team. Try to keep the logo text short and simple using a bold clean font, so it's easily recognisable on your logo.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "How do I find the right logo?",
+        "answer" : "&lt;p&gt;Simply put, logos are visual representations of what your business is all about. The logo you choose will become synonymous with your brand, so it pays to choose wisely. BrandCrowd offers access to a library packed with logos created by professional designers from around the world. Find the perfect logos is as simple as searching the library, customizing the logo to your liking and downloading. Remember, keeping your logo simple with three or fewer colors and clean fonts produces an effective, eye-catching logo.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "How do I add a tagline to my logo?",
+        "answer" : "&lt;p&gt;It's easy to enhance your logo with a tagline. A tagline is usually added at the bottom of your logo and consists of a short piece of text like a motto or catchphrase. Taglines that work include three to seven memorable words. Like an advertising jingle or popular song, this additional text on your logo helps further associate your design with your brand. You can add a tagline in a few clicks with BrandCrowd's Logo Maker.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "Can I download my logo instantly?",
+        "answer" : "&lt;p&gt;Yes. Now that you've created the perfect logo, it's time to put your design to work. BrandCrowd allows you to download your logo instantly and gives you access to all the files you need. BrandCrowd provides files perfect for producing marketing and print materials, for using on your website or blog and for branding those social media posts. All the logo files you need are available in your account.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "Do I get my logo in vector format?",
+        "answer" : "&lt;p&gt;Of course. Your logo from BrandCrowd is provided in several formats including vector files (PDF and SVG). No matter how large you want your logo, it'll look great. Vector files are used to create print layouts and illustrations as they ensure the same quality appearance across all formats and sizes.&lt;/p&gt;"
+      }]
+    },
+    "blogPosts" : {
+      "title" : "Get inspired with the latest logo design trends and news"
+    },
+    "stickyCta" : {
+      "businessName" : {
+        "placeholder" : "Enter your business name",
+        "maxLengthError" : "Please enter a business name that is less than 100 characters"
+      },
+      "keyword" : {
+        "placeholder" : "Search by keyword (e.g. restaurant)"
+      },
+      "searchButton" : {
+        "label" : "Start Designing a Logo"
+      }
+    }
+  },
+  "dcom" : {
+    "heroBanner" : {
+      "title" : "Logo Maker",
+      "subTitle" : "Create your dream logo in seconds. Try it for Free!",
+      "imageAlt" : "",
+      "search" : {
+        "searchPlaceholder" : "Enter Your Business Name",
+        "searchPlaceholderShort" : "Enter Your Business Name",
+        "searchButtonLabel" : "Start Now",
+        "searchButtonText" : "Start Now",
+        "maxLengthError" : "Please enter a business name that is less than 100 characters"
+      }
+    },
+    "mainTitle" : {
+      "label" : "Logo Templates",
+      "title" : "Make a logo you'll love, instantly. Try for free.",
+      "description" : "Whether you need a beauty logo, a logo for your real estate business or even a logo for your new startup, we help you generate thousands of logo designs in seconds."
+    },
+    "customHowItWorks" : {
+      "label" : "How it works",
+      "title" : "Create your dream logo in seconds",
+      "description" : "With {liveLogoCount}+ professionally created logos, Design.com has a logo for everyone. Here's how it works.",
+      "items" : [
+      {
+        "title" : "Generate my logo",
+        "content" : "Start using Design.com's logo maker today. To create the perfect logo for your business, enter your business name. Our advanced algoirthms will generated beautiful logos designs completely tailored to your industry. If you want to refine the logos and generate more you can enter keywords to find the exact logo to fit your business.",
+        "imageUrl" : "",
+        "imageAlt" : "",
+        "ctaLabel" : "Generate my logo",
+        "ctaUrl" : "/maker/logos",
+        "image" : {
+          "imageAlt" : "Example logos"
+        }
+      },
+
+      {
+        "title" : "Edit your logo",
+        "content" : "Browsing the beautiful logos generated by our logo maker is part of the fun! Once you've found a logo you like, you can customise it how you choose. Change font, colors, layouts and styles till you've got a design that's perfect for you. You can embellish your logo further with advanced features such as curved text, custom gradient colors and a huge library of bespoke shapes.",
+        "imageUrl" : "",
+        "imageAlt" : "",
+        "ctaLabel" : "Create a logo",
+        "ctaUrl" : "/maker/logos",
+        "image" : {
+          "imageAlt" : "Preview of logo maker and editor"
+        }
+      },
+
+      {
+        "title" : "Download my logo",
+        "content" : "When you've finished customising and tweaking your logo, it's very easy to download. At Design.com you can download your logo files instantly - with all the important logo files available in your account. We'll store the logos files in your account indefinitely, meaning you can always come back to download the files again later. For your convenience, your logo comes with the following:",
+        "imageUrl" : "",
+        "imageAlt" : "",
+        "ctaLabel" : "Get my logo",
+        "ctaUrl" : "/maker/logos",
+        "points" : [
+        {
+          "content" : "PNG & JPG files - High-resolution files perfect for your website and other digital properties"
+        },
+
+        {
+          "content" : "SVG, EPS & PDF files - Vector files perfect for print, including posters, flyers and business cards"
+        },
+
+        {
+          "content" : "Logo on transparent background"
+        },
+
+        {
+          "content" : "Multiple logo versions"
+        }],
+        "image" : {
+          "imageAlt" : "Logo download file types"
+        }
+      }]
+    },
+    "whatYouGet" : {
+      "title" : "What you get with Design.com's logo maker",
+      "label" : "Features",
+      "description" : "",
+      "items" : [
+      {
+        "iconName" : "logo",
+        "title" : "Professional quality logos",
+        "description" : "All the logos at Design.com are professionally designed by talented artist from around the world."
+      },
+
+      {
+        "iconName" : "bezier-curve",
+        "title" : "All the logo files you need",
+        "description" : "Get high-res logo files (PNG and JPG) for your website & vector files (SVG, EPS and PDF) ready for print."
+      },
+
+      {
+        "iconName" : "palette",
+        "title" : "Infinite layout & color options",
+        "description" : "Use unlimited layouts and any color of the rainbow to create your dream logo."
+      },
+
+      {
+        "iconName" : "card",
+        "title" : "Matching business cards",
+        "description" : "Need a business card with your logo? Choose from thousands of business card designs, branded with your logo colors to match your brand."
+      },
+
+      {
+        "iconName" : "annotate-heart",
+        "title" : "Social media posts & stories",
+        "description" : "Create stunning social media posts and stories for Instagram, Facebook and TikTok. All automatically customized with your logo colors."
+      },
+
+      {
+        "iconName" : "file-empty",
+        "title" : "Brand identity & stationary",
+        "description" : "Create branded stationary and brand identity kit such as letterheads, email signatures and more - matching your brand theme."
+      },
+
+      {
+        "iconName" : "pen",
+        "title" : "Unlimited logo edits",
+        "description" : "Edit your logo as much as you like. Customise the layout, colors and font on your logo and create as many variations as you want."
+      },
+
+      {
+        "iconName" : "headphones",
+        "title" : "Support",
+        "description" : "With 24/7 support from our team of logo experts, you're always looked after from logo creation to download and beyond."
+      },
+
+      {
+        "iconName" : "award",
+        "title" : "Royalty-free logos",
+        "description" : "Get a worldwide, irrevocable license to use your logo for any commercial and non-commercial purpose."
+      }]
+    },
+    "advantages" : {
+      "title" : "Your own logo and business branding tool",
+      "label" : "Advantages",
+      "mainCtaLabel" : "Create Your Logo",
+      "image" : {
+        "imageAlt" : "Branding image"
+      },
+      "items" : [
+      {
+        "title" : "Your business is your logo, your logo is your business",
+        "content" : "Everyone wants the perfect logo for their business. The good news is you can create a beautiful logo with Design.com's logo maker. Our online logo maker lets you generate designs perfectly suited to your business from a professionally designed library of logos. There's no stock icons here - every logo has been handcrafted and is exclusive to Design.com. So, if you want the best logo for your business then start customising a logo today. You can edit all our logos for free and make a logo you love in seconds- who doesn't like the sound of that?",
+        "imageAlt" : "Logo maker example logos",
+        "ctaLabel" : "Find your logo",
+        "image" : {
+          "imageAlt" : "Branding image"
+        }
+      },
+
+      {
+        "title" : "Create a beautiful logo with a few clicks",
+        "content" : "At Design.com we know startups, entrepreneurs and new businesses are short on time - in fact who isn't? We also know that you want a logo tool that's not just free to try, but super simple to use. That's why we've spent many hours perfecting our logo maker, so you can get that amazing logo with zero fuss - Simply find a logo, customize it and download the logo files. You can have a beautiful logo for your business in just a few clicks.",
+        "imageAlt" : "Logo maker editing tools",
+        "ctaLabel" : "Create your logo",
+        "ctaUrl" : "/maker/logos",
+        "image" : {
+          "imageAlt" : "Branding image"
+        }
+      },
+
+      {
+        "title" : "Build your entire Brand, not just the perfect logo",
+        "content" : "There's a lot more to starting a successful business than getting a fab logo - but making sure you put that logo to work is still crucial. At Design.com, we make sure that once you've created your new logo you don't miss the opportunity to get branded business cards, social media pics, banners and covers - all easily customisable with our suite of design editors. You can also put your new logo on stationery, including envelopes and letterheads. Want more? We can also get your branded merch, office supplies and stationery printed - making Design.com the one-stop-shop for launching your business.",
+        "imageAlt" : "Logo maker branding examples",
+        "ctaLabel" : "Get your logo",
+        "ctaUrl" : "/maker/logos",
+        "image" : {
+          "imageAlt" : "Branding image"
+        }
+      }]
+    },
+    "assetsButton" : {
+      "label" : "Browse handcrafted logos"
+    },
+    "howToCreate" : {
+      "title" : "How to create that perfect logo",
+      "description" : "Not sure where to start? Need some help creating a great logo? Here's a few bitesized tips from the pros:",
+      "items" : [
+      {
+        "iconName" : "text",
+        "imageAlt" : "Logo type",
+        "title" : "Logo type",
+        "description" : "Did you know there's an array of different logo types to choose from? What choice you make depends on the message you want your logo to convey  - You can have a logo with just text or just an an icon or maybe it should have both? This is a critical decision in the logo design process. &lt;br&gt;&lt;br&gt;&lt;a class='tw-no-underline tw-text-info-500 hover:tw-text-info-600' href='https://www.brandcrowd.com/blog/the-8-types-of-logos-and-which-one-is-for-you/'&gt;Find out more&lt;/a&gt;"
+      },
+
+      {
+        "iconName" : "palette",
+        "imageAlt" : "Logo colors",
+        "title" : "Logo colors",
+        "description" : "There's a whole world of color theory and psychology that most consumers aren't aware of. As a business owner it pays to choose the right colors for your logo. Want to convey seriousness or maybe you want your brand to appear adventurious or sporty. Choosing the right colors for your is key to getting the message right.&lt;br&gt;&lt;br&gt;&lt;a class='tw-no-underline tw-text-info-500 hover:tw-text-info-600' href='https://www.brandcrowd.com/blog/understanding-color-theory-for-beginners/'&gt;Find out more&lt;/a&gt;"
+      },
+
+      {
+        "iconName" : "font",
+        "imageAlt" : "Logo font",
+        "title" : "Logo font",
+        "description" : "It's not only the colors and logo type that convey meaning, so too can your fonts selection. Clean, bold typography can help to re-inforce a trustworthy message, whereas a softer font can can mean something more playful? Choosing the right font is vital to getting a great logo.&lt;br&gt;&lt;br&gt;&lt;a class='tw-no-underline tw-text-info-500 hover:tw-text-info-600' href='https://www.brandcrowd.com/blog/how-typography-impacts-your-brand-and-how-to-pick-the-right-one/'&gt;Find out more&lt;/a&gt;"
+      }]
+    },
+    "tutorialSearch" : {
+      "title" : "Get started with Design.com's Logo Maker",
+      "description" : "Enter your business name and we'll start creating logos in seconds...",
+      "ctaLabel" : "Generate Logos",
+      "searchTitle" : "Get started with Design.com's Logo Maker",
+      "searchPlaceholder" : "Enter your business name",
+      "searchPlaceholderShort" : "Search by keyword",
+      "ctaButtonLabel" : "Generate Logos",
+      "maxLengthError" : "Please enter a business name that is less than 100 characters"
+    },
+    "whyShouldUse" : {
+      "heading" : "Features",
+      "items" : [
+      {
+        "title" : "Make your dream logo - in seconds!",
+        "content" : "Why should you use Design.com Logo Maker to create your logo?",
+        "points" : [
+        {
+          "content" : "Our 236,000+ designs have all been handcrafted by a community of top designers. Get a stunning logo - always!",
+          "title" : "Unique designs"
+        },
+
+        {
+          "content" : "Design.com Logo Maker is free to use. Browse thousands of different logo designs, edit and save as many as you like.",
+          "title" : "Free to use"
+        },
+
+        {
+          "content" : "Pick a design you like and start editing it. In seconds you can make a logo you will love.",
+          "title" : "It’s fast - create a logo in seconds"
+        }],
+        "image" : {
+          "imageAlt" : "Branding image"
+        }
+      }]
+    },
+    "testimonials" : {
+      "heading" : "Testimonials",
+      "title" : "These businesses loved Design.com",
+      "testimonials" : [
+      {
+        "testimonial" : "BrandCrowd provided an excellent selection of high-quality images for viewing which allowed creative ideas to spawn. The logo design that I selected fit my theme perfectly.",
+        "name" : "Joel Eady",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "BrandCrowd's selection of logos is vast and they make it very easy to customize fonts, colors and layouts. I was pleasantly surprised at how easy it was to create a great looking logo.",
+        "name" : "Paul Carlino",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "Brandcrowd is a great site to obtain a logo and brand. There are so many styles to choose from and it's extremely easy to navigate. I'm not a big techie person so I appreciated the simplicity of the site.",
+        "name" : "Lisa Ahumada",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "The process was so much easier than I imagined it would be. The ideas were amazing and created a lot of direction for me. Thank You BrandCrowd for being here.",
+        "name" : "Jody Secaur",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "Brandcrowd has been very user friendly. I’ve been very pleased with the designs and look forward to working together in the further with my new and upcoming business.",
+        "name" : "Jennifer Davenport",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "We love BrandCrowd because of the professional quality, the different versions of your logo, and branding tools at your fingertips. Great job.",
+        "name" : "Linous White",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "The price for making the logo was worth it! I wanted to create a new logo but I couldn't find any inspiration. I went here and they made the perfect logo for me. I love it, now I can start my business.",
+        "name" : "Monique Lopez",
+        "rating" : "5"
+      },
+
+      {
+        "testimonial" : "BrandCrowd is a great way to build brand recognition for your business. I love how customer friendly there online service is and it’s ability to have direct impact on critical details of building your brand.",
+        "name" : "Lawrence Williams",
+        "rating" : "5"
+      }]
+    },
+    "howToMake" : {
+      "heading" : "How To",
+      "title" : "How does creating a logo on Design.com work?",
+      "description" : "Design.com makes it a breeze to create the perfect logo for your business. With these easy to follow steps you can create a logo that's ready to show the world in seconds.",
+      "items" : [
+      {
+        "iconName" : "search",
+        "imageAlt" : "Search-icon",
+        "title" : "Search for your logo",
+        "description" : "To find a beautiful logo for your business, simply enter your business name. Design.com's algorithms will generate thousands of logos relevant to your company - you just choose the one you love."
+      },
+
+      {
+        "iconName" : "filter",
+        "imageAlt" : "Refine-search-icon",
+        "title" : "Improve your search",
+        "description" : "You can improve your search and find logos with a specific theme by entering keywords. It's easy to find a beautiful logo for your business."
+      },
+
+      {
+        "iconName" : "heart",
+        "imageAlt" : "Logo-shortlist-icon",
+        "title" : "Shortlist the logos you like",
+        "description" : "Found a few logos you like? Add them to a shortlist so you don't lose them! Simply hit the heart icon to start building your custom shortlist."
+      },
+
+      {
+        "iconName" : "pen",
+        "imageAlt" : "Edit-logo-icon",
+        "title" : "Start customizing your logo",
+        "description" : "Once you've selected a logo you like it's easy to make it into a logo design you'll love. Editing the fonts, sizes, shapes, layout and colors takes only a few seconds."
+      },
+
+      {
+        "iconName" : "image",
+        "imageAlt" : "Preview-logo-icon",
+        "title" : "Checkout your logo preview",
+        "description" : "When you're happy with the way your logo looks you can preview it on business cards, stationary, apparel and signage. Visualise how your logo will look in real life."
+      },
+
+      {
+        "iconName" : "download",
+        "imageAlt" : "Download-logo-icon",
+        "title" : "Download your logo files",
+        "description" : "Everything looking good on the preview? No more tweaks? Now's the time to download your logo. Download all the files you need instantly."
+      }]
+    },
+    "faq" : {
+      "title" : "Frequently asked questions",
+      "description" : "Creating that perfect logo with Design.com is easy - but just in case, here's some FAQs to help you get started.",
+      "questions" : [
+      {
+        "question" : "What is the Design.com logo maker?",
+        "answer" : "&lt;p&gt;Design.com's logo maker allows you to generate and customize stand-out logos in minutes. Design.com gives you access to a professional library of thousands of customizable logo designs - making creating your logo inexpensive and straightforward. Our logos, created by designers around the globe, give you unlimited possibilities.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "Do I get a transparent version of my logo?",
+        "answer" : "&lt;p&gt;Absolutely! A transparent version of your logo is provided when you download in a PNG format. Even if you've chosen a solid background for your logo, we'll provided a version of your logo with a transparent background for your convenience - perfect for use on your website.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "What layout works best for logos?",
+        "answer" : "&lt;p&gt;You want your logo to standout above competitors. Your logo should tell your audience, customers, fans and competitors that you mean business. There's no single answer for what layout your logo should have - but keep in mind what message your want to convey with your logo. A simple layout can convey elegance and sophistication, while a more dynamic layout can mean fun or adventure. Search our logo collection for a design then customize it according to your needs. Remember you can also research logos - pay attention to their layout, color choices, design themes and fonts.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "What text should I choose for my logo?",
+        "answer" : "&lt;p&gt;What's in a name? If you haven't already got a name for your logo then here's some tips. You want to use text and a name that describes your business, the caliber of service you provide and one that resonates with customers. If you're stumped, research other companies with logos for inspiration. Remember your logo should have a catchy and non-offensive name that's sits well with the whole team. Try to keep the logo text short and simple using a bold clean font, so it's easily recognisable on your logo.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "How do I find the right logo?",
+        "answer" : "&lt;p&gt;Simply put, logos are visual representations of what your business is all about. The logo you choose will become synonymous with your brand, so it pays to choose wisely. Design.com offers access to a library packed with logos created by professional designers from around the world. Find the perfect logos is as simple as searching the library, customizing the logo to your liking and downloading. Remember, keeping your logo simple with three or fewer colors and clean fonts produces an effective, eye-catching logo.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "How do I add a tagline to my logo?",
+        "answer" : "&lt;p&gt;It's easy to enhance your logo with a tagline. A tagline is usually added at the bottom of your logo and consists of a short piece of text like a motto or catchphrase. Taglines that work include three to seven memorable words. Like an advertising jingle or popular song, this additional text on your logo helps further associate your design with your brand. You can add a tagline in a few clicks with Design.com's Logo Maker.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "Can I download my logo instantly?",
+        "answer" : "&lt;p&gt;Yes. Now that you've created the perfect logo, it's time to put your design to work. Design.com allows you to download your logo instantly and gives you access to all the files you need. Design.com provides files perfect for producing marketing and print materials, for using on your website or blog and for branding those social media posts. All the logo files you need are available in your account.&lt;/p&gt;"
+      },
+
+      {
+        "question" : "Do I get my logo in vector format?",
+        "answer" : "&lt;p&gt;Of course. Your logo from Design.com is provided in several formats including vector files (PDF and SVG). No matter how large you want your logo, it'll look great. Vector files are used to create print layouts and illustrations as they ensure the same quality appearance across all formats and sizes.&lt;/p&gt;"
+      }]
+    },
+    "stickyCta" : {
+      "businessName" : {
+        "placeholder" : "Enter your business name",
+        "maxLengthError" : "Please enter a business name that is less than 100 characters"
+      },
+      "keyword" : {
+        "placeholder" : "Search by keyword (e.g. restaurant)"
+      },
+      "searchButton" : {
+        "label" : "Start Designing a Logo"
+      }
+    }
+  }
+}
