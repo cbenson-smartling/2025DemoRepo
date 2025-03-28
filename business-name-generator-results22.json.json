@@ -1,0 +1,494 @@
+{
+    "smartling": {
+        "translate_paths": [
+            {
+                "path": "bc/*",
+                "exclude_path": "*/iconName"
+            },
+            {
+                "path": "bc/*",
+                "exclude_path": "*/imageUrl"
+            },
+            {
+                "path": "bc/*",
+                "exclude_path": "*/searchUrl"
+            },
+            {
+                "path": "bc/*",
+                "exclude_path": "*/url"
+            },
+            {
+                "path": "dcom/*",
+                "exclude_path": "*/iconName"
+            },
+            {
+                "path": "dcom/*",
+                "exclude_path": "*/imageUrl"
+            },
+            {
+                "path": "dcom/*",
+                "exclude_path": "*/searchUrl"
+            },
+            {
+                "path": "dcom/*",
+                "exclude_path": "*/url"
+            }
+        ]
+    },
+    "bc": {
+        "heroBanner": {
+            "title": "AI Business Name Generator",
+            "subTitle": "Generate the perfect business name using artificial intelligence in seconds. Start for FREE.",
+            "search": {
+                "searchPlaceholder": "Describe your business in a few words",
+                "searchPlaceholderShort": "Describe your business in a few words",
+                "searchButtonLabel": "GENERATE",
+                "searchButtonText": "GENERATE",
+                "searchInputName": "keyword",
+                "searchField": "keyword",
+                "searchUrl": "/business-name-generator/results",
+                "maxLengthError": "Search limit reached"
+            },
+            "imageAlt": "hero collage"
+        },
+        "bottomSearch": {
+            "title": "... or enter any keyword and we will start generating names for you",
+            "searchTitle": "... or enter any keyword and we will start generating names for you",
+            "searchPlaceholder": "Describe your business in a few words",
+            "searchPlaceholderShort": "Describe your business in a few words",
+            "searchButtonLabel": "GENERATE NAMES",
+            "searchButtonText": "GENERATE NAMES",
+            "searchInputName": "keyword",
+            "searchField": "keyword",
+            "searchUrl": "/business-name-generator/results",
+            "maxLengthError": "Search limit reached"
+        },
+        "features": {
+            "title": "BrandCrowd AI-based Business Name Generator",
+            "description": "The ultimate tool to create a unique and memorable business name for your brand in just a few clicks! Our cutting-edge platform uses advanced machine learning algorithms to generate a list of potential business names that perfectly align with your brand's vision. Selecting the right name for your business is critical, and we understand that. Here's a small guide to help you choose the perfect business name:",
+            "items": [
+                {
+                    "iconName": "file",
+                    "imageUrl": "https://bcassetcdn.com/images/icons/common-large-request.svg",
+                    "imageAlt": "large-request-icon",
+                    "title": "Make sure it matches your brand's personality",
+                    "description": "Your business name is a crucial element of your brand identity, and it should reflect your brand's vision, values, and personality. The name you choose should resonate with your target audience, convey the message you want to communicate, and be aligned with your brand's overall marketing strategy."
+                },
+                {
+                    "iconName": "users",
+                    "imageUrl": "https://bcassetcdn.com/images/icons/common-large-users.svg",
+                    "imageAlt": "large-users-icon",
+                    "title": "Understand your Market",
+                    "description": "What product or service are you offering? Knowing your target audience will help you decide on the style of your business name. It's best to find a name that represents both your business values and your customer needs."
+                },
+                {
+                    "iconName": "bulb",
+                    "imageUrl": "https://bcassetcdn.com/images/icons/common-large-idea.svg",
+                    "imageAlt": "large-idea-icon",
+                    "title": "Make it Stand Out",
+                    "description": "A business name that stands out is one that is easy to remember. You want your customers to have your company at the forefront of their mind."
+                },
+                {
+                    "iconName": "font",
+                    "imageUrl": "https://bcassetcdn.com/images/icons/common-large-font.svg",
+                    "imageAlt": "large-font-icon",
+                    "title": "Keep it Simple",
+                    "description": "When choosing a business name, the K.I.S.S principle is crucial. An overly complex business name that tries to be everything to everyone often results in doing nothing. Shorter, punchier business names are often better."
+                },
+                {
+                    "iconName": "logo",
+                    "imageUrl": "https://bcassetcdn.com/images/icons/common-large-artwork.svg",
+                    "imageAlt": "large-artwork-icon",
+                    "title": "Does it Work on a Logo?",
+                    "description": "Once you've generated a list of company names, our AI business name generator will show you how those names look on relevant logos. Our AI Algorithms will work out your industry and show logos suited to your niche."
+                },
+                {
+                    "iconName": "annotate-heart",
+                    "imageUrl": "https://bcassetcdn.com/images/icons/common-large-brand-identity-designs.svg",
+                    "imageAlt": "brand-identity-designs-icons",
+                    "title": "A Killer Business Name isn't the End",
+                    "description": "Once you've got a great business name that is catchy, simple, and relevant to your market, start using it. Create the perfect logo, start getting social with Instagram and Facebook posts, and create memorable business cards - all quickly and easily at BrandCrowd."
+                }
+            ]
+        },
+        "howItWorks": {
+            "title": "How BrandCrowd's Business Name Generator Works",
+            "description": "Finding the perfect business name is easy with BrandCrowd's AI powered generator. Follow these steps and you'll have a business name ready to share with the world in no time.",
+            "steps": [
+                {
+                    "title": "Start Generating",
+                    "description": "To generator your unique business name enter a keyword relevant to your business - our artificial intelligence powered generator will created business names tailored to you. Browse the business names and choose one you like.",
+                    "image": {
+                        "url": "https://bcassetcdn.com/assets/images/businessnamegenerator/how-it-works-step-1-business-name.svg",
+                        "alt": "Step 1 - Start Generating"
+                    }
+                },
+                {
+                    "title": "Refine your business name",
+                    "description": "Can't see the right business name? No problem, you can generate more names by refining your search with more keywords or adjusting the business name styles.",
+                    "image": {
+                        "url": "https://bcassetcdn.com/assets/images/businessnamegenerator/how-it-works-step-2-business-name.svg",
+                        "alt": "Step 2 - Refine your business name"
+                    }
+                },
+                {
+                    "title": "Bring your business name to life",
+                    "description": "See how your new business name looks on one of our 137,000+ premium logo designs.",
+                    "image": {
+                        "url": "https://bcassetcdn.com/assets/images/businessnamegenerator/how-it-works-step-3-business-name.svg",
+                        "alt": "Step 3 - Bring your business name to life"
+                    }
+                }
+            ]
+        },
+        "popularIndustries": {
+            "title": "Generate business names",
+            "description": "Choose an industry below and we'll start generating business names in seconds.",
+            "industries": {
+                "title": "Top Industries",
+                "tags": [
+                    "Airline",
+                    "App",
+                    "Automotive",
+                    "Bakery",
+                    "Band",
+                    "Beauty",
+                    "Brand",
+                    "Business",
+                    "Childcare",
+                    "Church",
+                    "Company",
+                    "Construction",
+                    "Dental",
+                    "Dj",
+                    "Education",
+                    "Electrical",
+                    "Esports",
+                    "Finance",
+                    "Fitness",
+                    "Food",
+                    "Gaming",
+                    "Lawyer",
+                    "Medical",
+                    "Military",
+                    "Music",
+                    "News",
+                    "Non Profit",
+                    "Photography",
+                    "Podcast",
+                    "Racing",
+                    "Real Estate",
+                    "Restaurant",
+                    "School",
+                    "Security",
+                    "Shop",
+                    "Spa",
+                    "Sport",
+                    "Startup",
+                    "Travel",
+                    "Wedding"
+                ]
+            }
+        },
+        "samplePrompts": [
+            "Innovative software solution for small businesses and startups",
+            "Premium coffee roaster specializing in fair trade and organic beans",
+            "Luxury event planning and design for weddings and corporate events"
+        ],
+        "whatYouGet": {
+            "title": "BrandCrowd - more than an AI Business Name Generator",
+            "description": "At BrandCrowd, we are more than just a business name generator. We offer a full suite of branding tools to help you build your entire brand. Once you find a business name you like, you can use our design editors to create a logo, branded business cards, social media pics, banners, and covers. You can also put your new logo on stationery, including envelopes and letterheads.",
+            "items": [
+                {
+                    "iconName": "logo",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-logo-files.svg",
+                    "imageAlt": "Premium-logo-design-icon",
+                    "title": "Premium Logo Designs",
+                    "description": "Every logo in our library is uniquely handcrafted by professional designers from across the globe."
+                },
+                {
+                    "iconName": "bezier-curve",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-vector.svg",
+                    "imageAlt": "Logo-file-download-icon",
+                    "title": "All The Files You Need",
+                    "description": "Get high-res logo files (PNG and JPG) for your website & vector files (SVG, EPS and PDF) ready for print."
+                },
+                {
+                    "iconName": "palette",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-palette.svg",
+                    "imageAlt": "Color-variation-icon",
+                    "title": "Color and Layout Variations",
+                    "description": "Choose from several layout options and use any color for your logo design."
+                },
+                {
+                    "iconName": "card",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/addon/add-ons-business-card-download.svg",
+                    "imageAlt": "Business-card-icon",
+                    "title": "Business card Templates",
+                    "description": "Choose from thousands of <a class=\"tw-no-underline tw-text-info-500 hover:tw-text-info-600\" href=\"/business-card-maker\">business card templates</a>, customised with your logo colors to match your brand."
+                },
+                {
+                    "iconName": "annotate-heart",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/addon/add-ons-social-media-pack.svg",
+                    "imageAlt": "Social-media-template-design-icon",
+                    "title": "Social Media Templates",
+                    "description": "Create social media designs including <a class=\"tw-no-underline tw-text-info-500 hover:tw-text-info-600\" href=\"/instagram-post-maker\">Instagram posts</a> & <a class=\"tw-no-underline tw-text-info-500 hover:tw-text-info-600\" href=\"/instagram-story-maker\">stories</a> automatically customized with your logo colors."
+                },
+                {
+                    "iconName": "file-empty",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/addon/add-ons-brand-identity-pack.svg",
+                    "imageAlt": "Brand-identity-template-icons",
+                    "title": "Brand Identity Templates",
+                    "description": "Create <a class=\"tw-no-underline tw-text-info-500 hover:tw-text-info-600\" href=\"/letterhead-maker\">letterheads</a>, <a class=\"tw-no-underline tw-text-info-500 hover:tw-text-info-600\" href=\"/email-signature-maker\">email signatures</a> matched to your logo colors to complete your brand identity."
+                },
+                {
+                    "iconName": "pen",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-customization.svg",
+                    "imageAlt": "Logo-customization-icon",
+                    "title": "Unlimited Customization",
+                    "description": "Edit the layout, colors and font on your logo. Get unlimited edits and create as many variations as you want."
+                },
+                {
+                    "iconName": "headphones",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/addon/add-ons-professional-designer-support.svg",
+                    "imageAlt": "Support-icon",
+                    "title": "Support",
+                    "description": "With 24/7 support from our team of logo experts, you're always looked after from logo creation to download and beyond."
+                },
+                {
+                    "iconName": "award",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-royalty-free.svg",
+                    "imageAlt": "Royalty-free-icon",
+                    "title": "Royalty Free Logos",
+                    "description": "Get a worldwide, irrevocable license to use your logo for any commercial and non-commercial purpose."
+                }
+            ]
+        }
+    },
+    "dcom": {
+        "heroBanner": {
+            "title": "AI Business Name Generator",
+            "subTitle": "Use advanced AI to generate a unique business name in seconds. Free to use.",
+            "search": {
+                "searchPlaceholder": "Describe your business in a few words",
+                "searchPlaceholderShort": "Describe your business in a few words",
+                "searchButtonLabel": "Generate",
+                "searchButtonText": "Generate",
+                "searchInputName": "keyword",
+                "searchField": "keyword",
+                "searchUrl": "/business-name-generator/results",
+                "maxLengthError": "Search limit reached"
+            },
+            "image": {
+                "imageAlt": "Hero Banner image"
+            },
+            "imageAlt": "hero collage"
+        },
+        "bottomSearch": {
+            "title": "Generate business names",
+            "description": "Enter any keyword and we'll start generating names for you",
+            "searchTitle": "Generate business names",
+            "searchPlaceholder": "Describe your business in a few words",
+            "searchPlaceholderShort": "Describe your business in a few words",
+            "searchButtonLabel": "Generate Names",
+            "searchButtonText": "Generate Names",
+            "searchInputName": "keyword",
+            "searchField": "keyword",
+            "searchUrl": "/business-name-generator/results",
+            "maxLengthError": "Search limit reached"
+        },
+        "features": {
+            "title": "AI generated business names in seconds",
+            "description": "In a matter of seconds generate unique business names for your business. Our advanced AI will take a description of your business and generate names that are relevant, memorable and align with your brand vision. Choosing a name for your business is one of the most important aspects of your brand - so we've created this short guide to help you select the right name.",
+            "items": [
+                {
+                    "iconName": "file",
+                    "imageUrl": "https://bcassetcdn.com/images/icons/common-large-request.svg",
+                    "imageAlt": "Get the right business name for your brand",
+                    "title": "Get the right business name for your brand",
+                    "description": "There's nothing more important to your brand identity than your business name. A great business name needs to be unique, memorable and tell the true story of your brand's vision. Generate a business name that reasonates with your target market and get the right message to your audience with Design.com's AI business name generator."
+                },
+                {
+                    "iconName": "users",
+                    "imageUrl": "https://bcassetcdn.com/images/icons/common-large-users.svg",
+                    "imageAlt": "Know your audience",
+                    "title": "Know your audience",
+                    "description": "Do you understand your target market? Do you know what they want and when they need it? Understanding these finer details can help you land on a business name that will absolutely resonate with them. Getting the style and tone right of your business name is crucial, and understanding how your audience behaves will help you get this right."
+                },
+                {
+                    "iconName": "bulb",
+                    "imageUrl": "https://bcassetcdn.com/images/icons/common-large-idea.svg",
+                    "imageAlt": "A business name that pops",
+                    "title": "A business name that pops",
+                    "description": "Want to be at the front of your customers mind? You need a business name that is simple, easy to remember and makes a statement. When generating your business name, make sure you choose one that really pops!"
+                },
+                {
+                    "iconName": "font",
+                    "imageUrl": "https://bcassetcdn.com/images/icons/common-large-font.svg",
+                    "imageAlt": "Simplicity is key",
+                    "title": "Simplicity is key",
+                    "description": "Simplicity can be the key to an everlasting business name. Truly memorable brands have found success in business names that don't try to be everything at once. Ensure you make the right choice when you generate your business name - choose something simple."
+                },
+                {
+                    "iconName": "logo",
+                    "imageUrl": "https://bcassetcdn.com/images/icons/common-large-artwork.svg",
+                    "imageAlt": "Your business name on a logo",
+                    "title": "Your business name on a logo",
+                    "description": "See how your business name looks on a logo. With Design.com's advanced AI business name generator you can preview your business name on logos related to your industry."
+                },
+                {
+                    "iconName": "annotate-heart",
+                    "imageUrl": "https://bcassetcdn.com/images/icons/common-large-brand-identity-Designs.svg",
+                    "imageAlt": "Put your business name to work",
+                    "title": "Put your business name to work",
+                    "description": "Create a stunning logo with your new business name - then keep going by creating beautiful social media posts for Facebook and Instagram, brand kit and business cards. You can do it all at Design.com"
+                }
+            ]
+        },
+        "howItWorks": {
+            "title": "How to generate a business name at Design.com",
+            "description": "Simply follow the below steps to generate the perfect name for your business. Designs.com's AI powered business name generator will create a truly unique name in seconds.",
+            "steps": [
+                {
+                    "title": "Describe your business",
+                    "description": "Enter a brief description of your business and our state of the art AI will generate business names tailored to you.",
+                    "image": {
+                        "url": "https://bcassetcdn.com/assets/images/businessnamegenerator/how-it-works-step-1-business-name.svg",
+                        "alt": "Describe your business"
+                    }
+                },
+                {
+                    "title": "Adjust the AI output",
+                    "description": "Not seeing a business name that stands out? No problem, you can tweak the output of our AI models by changing your business description or adjusting the business name style.",
+                    "image": {
+                        "url": "https://bcassetcdn.com/assets/images/businessnamegenerator/how-it-works-step-2-business-name.svg",
+                        "alt": "Adjust the AI output"
+                    }
+                },
+                {
+                    "title": "A logo for your business",
+                    "description": "Now you've landed on a killer business name, see how it looks on a logo. Our AI algorithms will show you logos tailored to your business - choose one you love and launch your business today.",
+                    "image": {
+                        "url": "https://bcassetcdn.com/assets/images/businessnamegenerator/how-it-works-step-3-business-name.svg",
+                        "alt": "A logo for your business"
+                    }
+                }
+            ]
+        },
+        "popularIndustries": {
+            "title": "Generate a business name for your industry",
+            "description": "We've got business names for every industry. Find your perfect business name below:",
+            "industries": {
+                "title": "Top Industries",
+                "tags": [
+                    "3D",
+                    "App",
+                    "Bakery",
+                    "Barber",
+                    "Beauty",
+                    "Brand",
+                    "Business",
+                    "Cafe",
+                    "Camera",
+                    "Car",
+                    "Cartoon",
+                    "Coffee",
+                    "Company",
+                    "Construction",
+                    "Crown",
+                    "Dj",
+                    "Doctor",
+                    "Eagle",
+                    "Fashion",
+                    "Food",
+                    "Football",
+                    "Gaming",
+                    "Gym",
+                    "Lion",
+                    "Music",
+                    "Photography",
+                    "Pizza",
+                    "Podcast",
+                    "Real Estate",
+                    "Restaurant",
+                    "School",
+                    "Shop",
+                    "Sports",
+                    "Team",
+                    "Travel",
+                    "Web",
+                    "Youtube"
+                ]
+            }
+        },
+        "whatYouGet": {
+            "title": "Get more than just a business name at Design.com",
+            "description": "Design.com is more than just a business name generator. Launch your dream business with a suite of design tools to help you create everything from logos, branded business cards, social media pics, banners, and covers and more. You can also use your beautiful new logo on stationery, including envelopes and letterheads.",
+            "items": [
+                {
+                    "iconName": "logo",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-logo-files.svg",
+                    "imageAlt": "Quality logos",
+                    "title": "Quality logos",
+                    "description": "Our logo library is created by professional designers. Each and every logo is custom made - we have a logo for every industry."
+                },
+                {
+                    "iconName": "bezier-curve",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-vector.svg",
+                    "imageAlt": "Download all the right files",
+                    "title": "Download all the right files",
+                    "description": "Download flexible vector files including SVG, EPS and PDF for printing. Also access high-resolution logo files (PNG and JPG) for your website."
+                },
+                {
+                    "iconName": "palette",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-palette.svg",
+                    "imageAlt": "Multiple logo variations",
+                    "title": "Multiple logo variations",
+                    "description": "Access several different layouts of your logo, as well as many color variations and background options."
+                },
+                {
+                    "iconName": "card",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/addon/add-ons-business-card-download.svg",
+                    "imageAlt": "Business cards",
+                    "title": "Business cards",
+                    "description": "Get a business card automatically customised with your logo colors. At Design.com get all your brand assets in a few clicks."
+                },
+                {
+                    "iconName": "annotate-heart",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/addon/add-ons-social-media-pack.svg",
+                    "imageAlt": "Social media posts & stories",
+                    "title": "Social media posts & stories",
+                    "description": "Create beautiful posts and stories for your social profiles at Design.com. Easily match your brand with templates that inherit your logo colors."
+                },
+                {
+                    "iconName": "file-empty",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/addon/add-ons-brand-identity-pack.svg",
+                    "imageAlt": "Brand & print designs",
+                    "title": "Brand & print designs",
+                    "description": "Create letterheads, email signatures, flyers and more matched to your logo colors to complete your brand identity."
+                },
+                {
+                    "iconName": "pen",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-customization.svg",
+                    "imageAlt": "Unlimited logo edits",
+                    "title": "Unlimited logo edits",
+                    "description": "Edit the layout, colors and font on your logo. Get unlimited edits and create as many variations as you want."
+                },
+                {
+                    "iconName": "headphones",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/addon/add-ons-professional-designer-support.svg",
+                    "imageAlt": "Support",
+                    "title": "Support",
+                    "description": "With 24/7 support from our team of logo experts, you're always looked after from logo creation to download and beyond."
+                },
+                {
+                    "iconName": "award",
+                    "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-royalty-free.svg",
+                    "imageAlt": "Royalty Free Logos",
+                    "title": "Royalty Free Logos",
+                    "description": "Get a worldwide, irrevocable license to use your logo for any commercial and non-commercial purpose."
+                }
+            ]
+        }
+    }
+}
