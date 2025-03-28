@@ -1,8 +1,5 @@
 {
-  "smartling" : {
-   
-
-  },
+  
   "bc": {
     "heroBanner": {
       "key" : "new {string}"
