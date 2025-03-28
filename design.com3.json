@@ -2,7 +2,7 @@
   
   "bc": {
     "heroBanner": {
-      "key" : "new {string}"
+      "key" : "new {string}",
       "defaultTitle": "{tagName} Logos",
       "defaultTitleForNoTagName": "Customize Quality Logo Templates",
       "defaultSubtitle": "Try BrandCrowd for Free! The World's #1 {tagName} Logo Maker.",
