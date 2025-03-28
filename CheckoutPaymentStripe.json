@@ -1,0 +1,10 @@
+{
+  "useStoredCreditCardLabel": "Use stored credit card",
+  "freeTrialUpgradeMessage": "You will retain your logo files even if you cancel anytime. If you do not cancel your subscription within 7 days you will be charged {currencySymbol}{totalNetPrice}/monthly and retain access to premium logo pack benefits",
+  "expiresLabel": "expires",
+  "useAnotherCreditCardLabel": "Use another credit card",
+  "creditCardDetailsLabel": "Credit Card Details",
+  "creditCardNumberPlaceholder": "Credit Card Number",
+  "expiryPlaceholder": "Expiry",
+  "cvvPlaceholder": "CVV"
+}
