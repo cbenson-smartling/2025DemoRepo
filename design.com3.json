@@ -1,6 +1,6 @@
 {
   "smartling" : {
-   "placeholder_format_custom" : ["(&lt;\/?[A-Za-z][A-Za-z0-9]*.*?&gt;)|(\\^\\^.*?\\^\\^)|(<<.*?>>)|^\/.*|(?:https?:\/\/)?([a-zA-Z0-9.-]+\\.[a-zA-Z]{2,})(\/[^\\s]*)?"]
+   
 
   },
   "bc": {
