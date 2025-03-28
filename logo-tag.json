@@ -1,0 +1,363 @@
+{
+  
+  "bc": {
+    "heroBanner": {
+      "defaultTitle": "{tagName} Logos",
+      "defaultTitleForNoTagName": "Customize Quality Logo Templates",
+      "defaultSubtitle": "Try BrandCrowd for Free! The World's #1 {tagName} Logo Maker.",
+      "search": {
+        "searchPlaceholder": "Enter Your Business Name",
+        "searchPlaceholderShort": "Enter Your Business Name",
+        "searchButtonLabel": "Create Logos",
+        "searchButtonText": "Create Logos",
+        "maxLengthError": "Please enter a business name that is less than 100 characters"
+      }
+    },
+    "assetSearch": {
+      "searchButtonText": "Search",
+      "defaultSearchTextFieldName": "Business name",
+      "defaultBusinessNameSearchPlaceholder": "Enter your business name",
+      "keywordSearchFieldLabel": "Keywords",
+      "keywordSearchPlaceholder": "Search by keyword"
+    },
+    "pagination": {
+      "description": "{tagName} logo designs"
+    },
+    "relatedTags": {
+      "title": "Other logos similar to {tagName} logos",
+      "tagTitleTemplate": "{relatedTagName} logos"
+    },
+    "howItWorks": {
+      "title": "Making Your {tagName} Logo Is Easy With BrandCrowd Logo Maker",
+      "description": "Create a professional {tagName} logo in seconds with our free {tagName} logo maker. BrandCrowd logo maker is easy to use and allows you full customization to get the {tagName} logo you want!",
+      "steps": [
+        {
+          "title": "Pick A [tagName] Logo",
+          "description": "Pick one of the [tagName] logos on this page or update your search.",
+          "image": {
+            "url": "https://dcstatic.com/images/brandcrowd/icons/how-it-works/how-it-works-step-1-logo-maker-c69ff69cc2.svg",
+            "alt": ""
+          }
+        },
+        {
+          "title": "Customize Your [tagName] Logo",
+          "description": "Change colours, fonts, add a tagline… Our [tagName] logo maker is 100% customizable and easy to use.",
+          "image": {
+            "url": "https://dcstatic.com/images/brandcrowd/icons/how-it-works/how-it-works-step-2-logo-maker-60fb8ea671.svg",
+            "alt": ""
+          }
+        },
+        {
+          "title": "Download Your [tagName] Logo!",
+          "description": "Download your [tagName] logo and start sharing it with the world!",
+          "image": {
+            "url": "https://dcstatic.com/images/brandcrowd/icons/how-it-works/how-it-works-step-3-logo-maker-e4a6268c48.svg",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    "keywordSearch": {
+      "title": "Enter any keyword and we will start making logos for you",
+      "searchTitle": "Enter any keyword and we will start making logos for you",
+      "searchPlaceholder": "Search by keyword (e.g. restaurant)",
+      "searchPlaceholderShort": "Search by keyword",
+      "searchButtonLabel": "Generate Logos",
+      "searchButtonText": "Generate Logos",
+      "maxLengthError": "Search limit reached"
+    },
+    "logoTips": {
+      "title": "How do I make {article} {tagName} logo with BrandCrowd?",
+      "description": "Creating your {tagName} logo easy with BrandCrowd. Just follow these steps and you'll have {article} {tagName} logo ready to share with the world in seconds.\n",
+      "items": [
+        {
+          "title": "1. Start searching:",
+          "description": "To find [tagName] logos relevant to your business enter your business name - We'll automatically show you [tagName] logos related to your business. You can browse the logos and choose one you love.\n",
+          "image": {
+            "url": "https://bcassetcdn.com/assets/images/icons/common-medium/common-medium-search-red.svg",
+            "alt": "Search-icon"
+          }
+        },
+        {
+          "title": "2. Refine your search:",
+          "description": "If you can't find the perfect [tagName] logo, you can refine your search by entering related keywords. We'll show you more logos related to your search. \n",
+          "image": {
+            "url": "https://bcassetcdn.com/assets/images/icons/common-medium/common-medium-filter-red.svg",
+            "alt": "Refine-search-icon"
+          }
+        },
+        {
+          "title": "3. Create a [tagName] logo shortlist",
+          "description": "To make life easier you can \"shortlist\" logos that you like. Simply click the heart symbol and we'll add the [tagName] logos to your shortlist.",
+          "image": {
+            "url": "https://bcassetcdn.com/assets/images/icons/common-medium/common-medium-list-red.svg",
+            "alt": "Logo-shortlist-icon"
+          }
+        },
+        {
+          "title": "4. Edit your [tagName] logo",
+          "description": "Once you've found a [tagName] logo that you love, you can customize the logo colors, fonts and layout. You can even add more embellishments with shapes.",
+          "image": {
+            "url": "https://bcassetcdn.com/assets/images/icons/common-medium/common-medium-edit-icon-red.svg",
+            "alt": "Edit-logo-icon"
+          }
+        },
+        {
+          "title": "5. Preview your [tagName] logo",
+          "description": "When you're done editing you can easily preview your logo on apparal, signage and more to see how it looks in real life.",
+          "image": {
+            "url": "https://bcassetcdn.com/assets/images/icons/common-medium/common-medium-designs-red.svg",
+            "alt": "Edit-logo-icon"
+          }
+        },
+        {
+          "title": "6. Download your [tagName] logo",
+          "description": "Once you're done customizing, you can download your [tagName] logo - you'll get access to all the logo files you need, instantly",
+          "image": {
+            "url": "https://bcassetcdn.com/assets/images/icons/common-medium/common-medium-download-red.svg",
+            "alt": "Download-logo-icon"
+          }
+        }
+      ]
+    },
+    "imageGridBlurb": {
+      "title": "What elements make a beautiful {tagName} logo?",
+      "description": "It's easy to create a {tagName} logo with BrandCrowd's logo maker - but making sure you get these design elements right will ensure your logo is perfect.  Your {tagName} logo should represent your brand, help people remember you and provide insight into your services. Choosing the right colors, layout, fonts and shapes are key to making sure your {tagName} logo rises above competitors. ",
+      "imageAlt": "two-{tagName}-logo-examples"
+    },
+    "howToCreate": {
+      "items": [
+        {
+          "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-artwork.svg",
+          "imageAlt": "Logo-type-icon",
+          "title": "Logo type",
+          "description": "There's an array of different logo types to choose from. Does your [tagName] logo need an icon or just text? Should it have a combination of both?<br><br><a class='tw-no-underline tw-text-info-500 hover:tw-text-info-600' href='https://www.brandcrowd.com/blog/the-8-types-of-logos-and-which-one-is-for-you/'>Find out more</a>"
+        },
+        {
+          "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-palette.svg",
+          "imageAlt": "Logo-colour-icon",
+          "title": "Logo colors",
+          "description": "Want to convey trustworthiness? Want to appear fun and outgoing? Choosing the right colors for your [tagName] logo makes all the difference.<br><br><a class='tw-no-underline tw-text-info-500 hover:tw-text-info-600' href='https://www.brandcrowd.com/blog/understanding-color-theory-for-beginners/'>Find out more</a>"
+        },
+        {
+          "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-font.svg",
+          "imageAlt": "Logo-font",
+          "title": "Logo font",
+          "description": "In the same way colors can convey meaning, so too can fonts and typography. Need a serious [tagName] logo or maybe something more gentle? Make sure to choose your fonts wisely.<br><br><a class='tw-no-underline tw-text-info-500 hover:tw-text-info-600' href='https://www.brandcrowd.com/blog/how-typography-impacts-your-brand-and-how-to-pick-the-right-one/'>Find out more</a>"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "description": "Creating that perfect {tagName} logo with BrandCrowd is easy - but just in case, here's some FAQs to help you get started.",
+      "questions": [
+        {
+          "question": "What is the BrandCrowd [tagName] logo maker?",
+          "answer": "BrandCrowd's [tagName] <a class=\"tw-no-underline tw-text-info-500 hover:tw-text-info-600\" href=\"/logo-maker\">logo maker</a>  allows you to generate and customize stand-out [tagName] logos in seconds. BrandCrowd gives you access to a professional library of thousands of customizable [tagName] logo designs - making creating your [tagName] logo inexpensive and straightforward. Our logos, created by designers around the globe, give you unlimited possibilities."
+        },
+        {
+          "question": "Do I get a transparent version of my [tagName] logo?",
+          "answer": "Absolutely! A transparent version of your [tagName] logo is provided when you download in a PNG format. Even if you've chosen a solid background for your [tagName] logo, we'll provided a version of your logo with a transparent background for your convenience - perfect for use on your website."
+        },
+        {
+          "question": "What layout works best for [tagName] logos?",
+          "answer": "You want your [tagName] logo to standout above competitors. Your logo should tell your audience, customers, fans and competitors that you mean business. There's no single answer for what layout your [tagName] logo should have - but keep in mind what message your want to convey with your logo. A simple layout can convey elegance and sophistication, while a more dynamic layout can mean fun or adventure. Search our logo collection for a design then customize it according to your needs. Remember you can also research [tagName] logos - pay attention to their layout, color choices, design themes and fonts."
+        },
+        {
+          "question": "What text should I choose for my [tagName] logo?",
+          "answer": "What's in a name? If you haven't already got a name for your [tagName] logo then here's some tips. You want to use text and a name that describes your business, the caliber of service you provide and one that resonates with customers. If you're stumped, research other companies with [tagName]s for <a class=\"tw-no-underline tw-text-info-500 hover:tw-text-info-600\" href=\"/maker/logo-ideas\">logo ideas</a>. Remember your [tagName] logo should have a catchy and non-offensive name that's sits well with the whole team. Try to keep the logo text short and simple using a bold clean font, so it's easily recognisable on your [tagName] logo."
+        },
+        {
+          "question": "How do I find the right [tagName] logo?",
+          "answer": "Simply put, [tagName] logos are visual representations of what your business is all about. The logo you choose will become synonymous with your brand, so it pays to choose wisely. BrandCrowd offers access to a library packed with [tagName] logos created by professional designers from around the world. Find the perfect [tagName] logos is as simple as searching the library, customizing the logo to your liking and downloading. Remember, keeping your [tagName] logo simple with three or fewer colors and clean fonts produces an effective, eye-catching logo."
+        },
+        {
+          "question": "How do I add a tagline to my [tagName] logo?",
+          "answer": "It's easy to enhance your [tagName] logo with a tagline. A tagline is usually added at the bottom of your logo and consists of a short piece of text like a motto or catchphrase. Taglines that work include three to seven memorable words. Like an advertising jingle or popular song, this additional text on your [tagName] logo helps further associate your design with your brand. You can add a tagline in a few clicks with BrandCrowd's <a class=\"tw-no-underline tw-text-info-500 hover:tw-text-info-600\" href=\"/maker/free-logos\">free logo maker</a>."
+        },
+        {
+          "question": "Can I download my [tagName] logo instantly?",
+          "answer": "Yes. Now that you've created the perfect [tagName] logo, it's time to put your design to work. BrandCrowd allows you to download your logo instantly and gives you access to all the files you need. BrandCrowd provides files perfect for producing <a class=\"tw-no-underline tw-text-info-500 hover:tw-text-info-600\" href=\"/business-card-maker\">business cards</a>, marketing and print materials, for using on your website or blog and for branding those social media posts. All the logo files you need are available in your account."
+        },
+        {
+          "question": "Do I get my [tagName] logo in vector format?",
+          "answer": "Of course. Your [tagName] logo from BrandCrowd is provided in several formats including vector files (PDF and SVG). No matter how large you want your [tagName] logo, it'll look great. Vector files are used to create print layouts and illustrations as they ensure the same quality appearance across all formats and sizes."
+        }
+      ]
+    }
+  },
+  "dcom": {
+    "heroBanner": {
+      "defaultTitle": "{tagName} Logos",
+      "defaultTitleForNoTagName": "Customize Quality Logo Templates",
+      "defaultSubtitle": "Create your own {tagName} logo in seconds",
+      "search": {
+        "searchPlaceholder": "Enter Your Business Name",
+        "searchPlaceholderShort": "Enter Your Business Name",
+        "searchButtonLabel": "Create Logos",
+        "searchButtonText": "Create Logos",
+        "maxLengthError": "Please enter a business name that is less than 100 characters"
+      }
+    },
+    "assetSearch": {
+      "searchButtonText": "Search",
+      "defaultSearchTextFieldName": "Business name",
+      "defaultBusinessNameSearchPlaceholder": "Enter your business name",
+      "keywordSearchFieldLabel": "Keywords",
+      "keywordSearchPlaceholder": "Search by keyword"
+    },
+    "pagination": {
+      "description": "{tagName} logo designs"
+    },
+    "relatedTags": {
+      "title": "Other logos similar to {tagName} logos",
+      "tagTitleTemplate": "{relatedTagName} logos"
+    },
+    "howItWorks": {
+      "title": "It's easy to create your {tagName} logo at Design.com",
+      "description": "In a matter of seconds create a truly remarkable {tagName} logo. At Design.com you can make a logo using our free to use logo maker.  Backed by advanced artificial intelligence, it's never been easier to create your dream {tagName} logo. Get started now! ",
+      "steps": [
+        {
+          "title": "Find a {tagName} logo",
+          "description": "Browse thousands of beautiful {tagName} logos or search with your business name and keyword. "
+        },
+        {
+          "title": "Edit your {tagName} logo",
+          "description": "Edit all aspects of your {tagName} logo including colors, fonts, layout and more. You {tagName} logo is 100% customizable."
+        },
+        {
+          "title": "Your {tagName} logo is ready!",
+          "description": "Share your newly created {tagName} logo. Download all the files you need to start using your {tagName} logo. "
+        }
+      ]
+    },
+    "keywordSearch": {
+      "title": "Generate logos by entering a keyword",
+      "searchTitle": "Generate logos by entering a keyword",
+      "searchPlaceholder": "Search by keyword (e.g. restaurant)",
+      "searchPlaceholderShort": "Search by keyword",
+      "searchButtonLabel": "Generate Logos",
+      "searchButtonText": "Generate Logos",
+      "maxLengthError": "Search limit reached"
+    },
+    "logoTips": {
+      "title": "How do I create my {tagName} logo with Design.com?",
+      "description": "It's simple to create your {tagName} logo at Design.com. You'll have a beautiful {tagName} logo to share with the world in a matter of seconds by following the  these steps.\n",
+      "items": [
+        {
+          "title": "Search",
+          "description": "Discover beautiful [tagName] logos by entering your business name - Design.com will use advanced algorithms to generate [tagName] logos related to your business. Simply browse the generated logo and choose one you love. \n",
+          "image": {
+            "url": "https://bcassetcdn.com/assets/images/icons/common-medium/common-medium-search-red.svg",
+            "alt": "Search-icon"
+          }
+        },
+        {
+          "title": "Improve your search",
+          "description": "Can't see the [tagName] logo you really love? No problem! Simply update your search by entering related keywords. We'll generate more [tagName] logos instantly. \n",
+          "image": {
+            "url": "https://bcassetcdn.com/assets/images/icons/common-medium/common-medium-filter-red.svg",
+            "alt": "Refine-search-icon"
+          }
+        },
+        {
+          "title": "Shortlist logos",
+          "description": "Start to create a list of [tagName] logos you like by adding them to a handy \"shortlist\". Use the heart symbol on each logo to add the design to a shortlist so that you can come back and find them later. Add or remove as many logos as you like.",
+          "image": {
+            "url": "https://bcassetcdn.com/assets/images/icons/common-medium/common-medium-list-red.svg",
+            "alt": "Logo-shortlist-icon"
+          }
+        },
+        {
+          "title": "Customize your logo",
+          "description": "Now you've chosen a [tagName] logo that you like, turn it into your dream logo by customizing the  colors, fonts and layout. Take your [tagName] logo to the next level with Design.com's easy-to-use editing tools. ",
+          "image": {
+            "url": "https://bcassetcdn.com/assets/images/icons/common-medium/common-medium-edit-icon-red.svg",
+            "alt": "Edit-logo-icon"
+          }
+        },
+        {
+          "title": "Preview your design",
+          "description": "Once you've finished customising your [tagName] logo, you can preview it on apparel, signage and more. Make sure to check out how your brand new [tagName] logo looks in the wild. ",
+          "image": {
+            "url": "https://bcassetcdn.com/assets/images/icons/common-medium/common-medium-Designs-red.svg",
+            "alt": "Edit-logo-icon"
+          }
+        },
+        {
+          "title": "Download logo files",
+          "description": "Now you've got the perfect [tagName] logo, download all the files you need, instantly. Get access to high resolution and scalable vector files - so you can use your new logo quickly and easily. ",
+          "image": {
+            "url": "https://bcassetcdn.com/assets/images/icons/common-medium/common-medium-download-red.svg",
+            "alt": "Download-logo-icon"
+          }
+        }
+      ]
+    },
+    "imageGridBlurb": {
+      "title": "What elements make a beautiful {tagName} logo?",
+      "description": "It's easy to create a {tagName} logo with Design.com's logo maker - but making sure you get these design elements right will ensure your logo is perfect.  Your {tagName} logo should represent your brand, help people remember you and provide insight into your services. Choosing the right colors, layout, fonts and shapes are key to making sure your {tagName} logo rises above competitors. ",
+      "imageAlt": "two-{tagName}-logo-examples"
+    },
+    "howToCreate": {
+      "items": [
+        {
+          "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-artwork.svg",
+          "imageAlt": "Logo-type-icon",
+          "title": "Logo type",
+          "description": "There's an array of different logo types to choose from. Does your [tagName] logo need an icon or just text? Should it have a combination of both?<br><br><a class='tw-text-primary-400 hover:tw-underline' href='https://www.design.com/blog/the-8-types-of-logos-and-which-one-is-for-you/'>Find out more</a>"
+        },
+        {
+          "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-palette.svg",
+          "imageAlt": "Logo-colour-icon",
+          "title": "Logo colors",
+          "description": "Want to convey trustworthiness? Want to appear fun and outgoing? Choosing the right colors for your [tagName] logo makes all the difference.<br><br><a class='tw-text-primary-400 hover:tw-underline' href='https://www.design.com/blog/understanding-color-theory-for-beginners/'>Find out more</a>"
+        },
+        {
+          "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-font.svg",
+          "imageAlt": "Logo-font",
+          "title": "Logo font",
+          "description": "In the same way colors can convey meaning, so too can fonts and typography. Need a serious [tagName] logo or maybe something more gentle? Make sure to choose your fonts wisely.<br><br><a class='tw-text-primary-400 hover:tw-underline' href='https://www.design.com/blog/how-typography-impacts-your-brand-and-how-to-pick-the-right-one/'>Find out more</a>"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "description": "Creating your {tagName} logo with Design.com is a breeze - however, here are some FAQs in case there are any hiccups.",
+      "questions": [
+        {
+          "question": "What is the Design.com [tagName] logo maker?",
+          "answer": "Design.com's [tagName] <a class=\"tw-lowercase tw-text-primary-400 hover:tw-underline\" href=\"/logo-maker\">logo maker</a> lets you generate the perfect [tagName] logo. With a library of thousands of premium, customizable [tagName] logos - creating your perfect logo is so easy. You can edit the fonts, colors, layout and more of every single logo in our library to create a design that is truly yours. "
+        },
+        {
+          "question": "Do I get a transparent version of my [tagName] logo?",
+          "answer": "Every logo created at Design.com comes with a transparent version when you download your [tagName] logo in PNG format.  It doesn't matter if you've created a [tagName] logo with a background color - solid or gradient, we'll still provided a version of your logo with a transparent background for your convenience - ready to be used on your social profiles or on your website."
+        },
+        {
+          "question": "What layout works best for [tagName] logos?",
+          "answer": "You should aim to make your [tagName] logo shine brighter than the rest. It should communicate to your audience, customers, fans, and competitors that you're serious about what you do. There isn't a one-size-fits-all solution for the layout of your logo, but consider the message you want it to convey. A minimalist design can suggest refinement and class, whereas a more energetic layout might evoke a sense of excitement or exploration. Browse through our collection of [tagName] logos to find a design that resonates with you, then tailor it to suit your specific needs. Additionally, explore existing logos, paying close attention to their layout, color palettes, thematic elements, and font choices."
+        },
+        {
+          "question": "What text should I choose for my [tagName] logo?",
+          "answer": "Choosing the right name for your [tagName] logo is crucial. Opt for text that not only represents your business but also reflects the quality of service you offer, while also appealing to your customers. If you're feeling stuck, exploring  [tagName] logos from other companies can spark inspiration. Keep in mind that your logo's name should be memorable and agreeable to everyone on your team. Aim for simplicity in the text, utilizing a bold, clean font that ensures easy recognition of your logo."
+        },
+        {
+          "question": "How do I find the right [tagName] logo?",
+          "answer": "In essence, logos serve as visual embodiments of your business's essence. The [tagName] logo you select will inevitably become inseparable from your brand, making it crucial to choose wisely. At Design.com, you gain access to a rich library brimming with [tagName] logos crafted by skilled designers worldwide. Discovering the ideal logo is as straightforward as perusing the library, tailoring it to your preferences, and downloading. Bear in mind, opting for simplicity with three or fewer colors and crisp fonts yields a compelling, attention-grabbing logo."
+        },
+        {
+          "question": "How do I add a tagline to my [tagName] logo?",
+          "answer": "Adding a tagline to your [tagName] logo is a simple way to elevate its impact. Typically positioned beneath your logo, a tagline comprises a brief phrase, such as a motto or catchy expression. Effective taglines are comprised of three to seven memorable words. Similar to an advertising jingle or beloved song lyric, this supplementary text reinforces the connection between your design and brand. With Design.com's free  [tagName] logo maker, incorporating a tagline takes just a few clicks."
+        },
+        {
+          "question": "Can I download my [tagName] logo instantly?",
+          "answer": "Absolutely! With your flawless [tagName] logo in hand, it's time to unleash its potential. Design.com empowers you to swiftly download your logo and grants access to all essential files. From crafting Business Cards to marketing materials, printing, website integration, blog utilization, and enhancing social media posts, Design.com furnishes the perfect files tailored to your needs. All necessary logo files await you in your account, ready to fuel your brand's journey."
+        },
+        {
+          "question": "Do I get my [tagName] logo in vector format?",
+          "answer": "Certainly! Your Design.com [tagName] logo comes in various formats, including vector files such as PDF and SVG. Regardless of the scale you require, your logo will maintain its excellence. Vector files are ideal for generating print layouts and illustrations, guaranteeing consistent quality and appearance across diverse formats and dimensions."
+        }
+      ]
+    }
+  }
+}
