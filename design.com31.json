@@ -4,8 +4,8 @@
     "heroBanner": {
       "key" : "new {string} <<www.google.com>>",
       "defaultTitle": "{tagName} Logos",
-      "defaultTitleForNoTagName": "Customize Quality Logo Templates",
-      "defaultSubtitle": "Try BrandCrowd for Free! The World's #1 {tagName} Logo Maker.",
+      "defaultTitleForNoTagName": "Customize <<Quality>> Logo Templates",
+      "defaultSubtitle": "Try BrandCrowd for Free! The <<World's>> #1 {tagName} Logo Maker.",
       "search": {
         "searchPlaceholder": "\\Enter\\Your\\Business\\Name",
         "searchPlaceholderShort": "Enter Your Business Name",
