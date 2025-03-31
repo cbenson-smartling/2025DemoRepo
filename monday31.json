@@ -1,0 +1,12 @@
+{
+"defaultTitle": "{tagName} Logos",
+      "defaultTitleForNoTagName": "Customize Quality Logo Templates",
+      "defaultSubtitle": "Try BrandCrowd for Free! The World's #1 {tagName} Logo Maker.",
+      "search": {
+        "searchPlaceholder": "Enter Your Business Name",
+        "searchPlaceholderShort": "Enter {Your} Business Name",
+        "searchButtonLabel": "Create Logos",
+        "searchButtonText": "Create Logos",
+        "maxLengthError": "Please enter a business name that is less than 100 characters"
+      }
+}
