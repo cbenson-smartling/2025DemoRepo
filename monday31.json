@@ -3,7 +3,10 @@
       "defaultTitleForNoTagName": "Customize Quality Logo Templates",
       "defaultSubtitle": "Try BrandCrowd for Free! The World's #1 {tagName} Logo Maker.",
       "search": {
-        "searchPlaceholder": "Enter Your Business Name",
+            "key2" : "/helpme",
+            "key3" : "keys here for <<testing>>"
+            
+        "searchPlaceholder": "Enter Your Business Name https://www.google.com",
         "searchPlaceholderShort": "Enter {Your} Business Name",
         "searchButtonLabel": "Create Logos",
         "searchButtonText": "Create Logos",
