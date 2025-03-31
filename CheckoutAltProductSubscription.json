@@ -1,0 +1,10 @@
+{
+  "perMonthLabel": "+{additionalPrice}/month",
+  "perMonthLabel": "+{additionalPrice}/ month",
+  "billedMonthlyLabel": "billed monthly",
+  "billedAnnuallyLabel": "billed annually",
+  "savingsLabel": "SAVE {savingsPercentage} %",
+  "addButtonLabel": "Add",
+  "addedButtonLabel": "Added",
+  "key" : "https://dcstatic.com/images/team-photos/alec-lynch-6ee9784361.jpg"
+}
