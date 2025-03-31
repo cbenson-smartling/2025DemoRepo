@@ -1,6 +1,6 @@
 {
-  "perMonthLabel": "+{additionalPrice}/month",
-  "perMonthLabels": "+{additionalPrice}/ months",
+  "perMonthLabel": "+{additionalPrice} /lmonth",
+  "perMonthLabels": "+{additionalPrice}/ smonths",
   "billedMonthlyLabel": "billed monthly",
   "billedAnnuallyLabel": "billed annually",
   "savingsLabel": "SAVE {savingsPercentage} %",
