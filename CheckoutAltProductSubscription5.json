@@ -1,9 +1,5 @@
 {
-  "smartling" : {
 
-   "placeholder_format_custom" : ["\\{.+?\\}|^/\\S+"]
-
-  },
   "perMonthLabel": "+{additionalPrice} /lmonth",
   "perMonthLabelsf": "+{additionalPrice}/ months",
   "billedMonthlyLabel": "billed monthly",
