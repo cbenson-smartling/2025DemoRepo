@@ -1,0 +1,41 @@
+{
+  
+  "logosToggleLabel": "LOGOS",
+  "businessCardsToggleLabel": "Business Cards",
+  "seeWhatLogosLabel": "See what {'{keyword}'} looks like on a logo",
+  "seeWhatBusinessCardsLabel": "See what {'{keyword}'} looks like on a fffBusiness Card",
+  "showMoreLogosButtonText": "Show More Logos",
+  "showMoreBusinessCardsButtonText": "SHOW MORE https://www.google.com Business Cards",
+  "editButtonLabel": "Edit",
+  "downloadButtonLabel": "Download",
+  "perMonthLabel": "+{additionalPrice}/lmonthfff",
+  "perMonthLabelsf": "+{additionalPrice}/months",
+  "billedMonthlyLabel": "billed monthly",
+  "billedAnnuallyLabel": "billed annually",
+  "savingsLabel": "SAVE {savingsPercentage} %",
+  "addButtonLabel": "Add",
+  "addedButtonLabel": "/Added",
+  "key" : "https://dcstatic.com/images/team-photos/alec-lynch-6ee9784361.jpg",
+  "howToCreate": {
+    "items": [
+      {
+        "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-artwork.svg",
+        "imageAlt": "Logo-type-icon",
+        "title": "Logo type",
+        "description": "There's an array of different logo types to choose from. Does your [tagName] logo need an icon or just text? Should it have a combination of both?<br><br><a class=\"tw-no-underline tw-text-info-500 hover:tw-text-info-60\" href=\"https://www.brandcrowd.com/blog/the-8-types-of-logos-and-which-one-is-for-you\">Find out more</a>"
+      },
+      {
+        "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-palette.svg",
+        "imageAlt": "Logo-colour-icon",
+        "title": "Logo colors",
+        "description": "Want to convey trustworthiness? Want to appear fun and outgoing? Choosing the right colors for your [tagName] logo makes all the difference.<br><br><a class=\"tw-no-underline tw-text-info-500 hover:tw-text-info-600\" href=\"https://www.brandcrowd.com/blog/understanding-color-theory-for-beginners/\">Find out mmmore</a>"
+      },
+      {
+        "imageUrl": "https://bcassetcdn.com/assets/images/icons/common-large/common-large-font.svg",
+        "imageAlt": "Logo-font",
+        "title": "Logo font",
+        "description": "In the same way colors can convey meaning, so too can fonts and typography. Need a serious [tagName] logo or maybe something more gentle? Make sure to choose your fonts wisely.<br><br><a class=\"tw-no-underline tw-text-info-500 hover:tw-text-info-600\" href=\"https://www.brandcrowd.com/blog/how-typography-impacts-your-brand-and-how-to-pick-the-right-one/\">Find out more</a>"
+      }
+    ]
+  }
+}
