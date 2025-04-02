@@ -36,7 +36,7 @@
                         "imageAlt": "Facebook Posts"
                     }
                 },
-                                   "title": "YouTube Banner Maker",
+                                 {  "title": "YouTube Banner Maker",
                     "content": "Tie your whole channel together using a beautiful &lt;a href=&quot;{contentUrl}&quot;&gt;YouTube banner&lt;/a&gt;. You will get everything you need to express yourself using design elements like fonts, colors and layout. Get a head start by browsing through a curated library of designs that fit every niches. Impress your viewers the first time they see your channel.",
                     "contentUrl": "/youtube-cover-maker",
                     "imageAlt": "YouTube Banners",
@@ -46,7 +46,8 @@
                     "image": {
                         "imageAlt": "YouTube Banners"
                     }
-                },
+                }
+                ,
                 {
                     "title": "LinkedIn Banner Maker",
                     "content": "Be an authoritative voice in your industry with an outstanding &lt;a href=&quot;{contentUrl}&quot;&gt;LinkedIn banner&lt;/a&gt;. Give our LinkedIn banner maker a spin and craft a design that will make your profile stand out. Find the best designs for B2Bs, B2Cs, and more. Customize professionally curated designs and apply your brand colors, fonts and layout to achieve a consistent look.",
