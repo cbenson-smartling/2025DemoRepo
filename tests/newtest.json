@@ -1,4 +1,89 @@
 {
+  "items": [
+                {
+                    "title": "Business Card Maker",
+                    "content": "Create a stunning business card in minutes. Browse thousands of professionally curated &lt;a href=&quot;{contentUrl}&quot;&gt;business cards&lt;/a&gt; and edit them with ease. Whether you&#39;re an accountant or hairstylist, we&#39;ve got a business card that&#39;s perfect for you. Our business card maker lets you edit the colors, font, and layout, then download the card instantly.",
+                    "contentUrl": "/business-card-maker",
+                    "imageAlt": "Business Cards",
+                    "ctaLabel": "Make a Business Card",
+                    "ctaUrl": "/business-card-maker",
+                    "imageName": "business-card",
+                    "image": {
+                        "imageAlt": "Business Cards"
+                    }
+                },
+                {
+                    "title": "Facebook Cover Maker",
+                    "content": "Your Facebook cover is the face of your business. Make your &lt;a href=&quot;{contentUrl}&quot;&gt;Facebook covers&lt;/a&gt; stand out by creating a unique design with our Facebook cover maker. With thousands of templates to choose from, it&#39;s never been easier to produce a Facebook cover you&#39;ll love. Edit the images, layout, fonts, and colors—then share it with the world.",
+                    "contentUrl": "/facebook-cover-maker",
+                    "imageAlt": "Facebook Covers",
+                    "ctaLabel": "Make a Facebook Cover",
+                    "ctaUrl": "/facebook-cover-maker",
+                    "imageName": "facebook-cover",
+                    "image": {
+                        "imageAlt": "Facebook Covers"
+                    }
+                },
+                {
+                    "title": "Facebook Post Maker",
+                    "content": "Start your journey towards social media relevance with captivating &lt;a href=&quot;{contentUrl}&quot;&gt;Facebook posts&lt;/a&gt;. Our easy-to-use Facebook post maker gives you the creative freedom to apply the fonts, colors and shapes you like. No matter what industry you&#39;re in, you&#39;ll make graphics that will make your followers stop scrolling and read what you&#39;ve got to say.",
+                    "contentUrl": "/facebook-post-maker",
+                    "imageAlt": "Facebook Posts",
+                    "ctaLabel": "Make a Facebook Post ",
+                    "ctaUrl": "/facebook-post-maker",
+                    "imageName": "facebook-post",
+                    "image": {
+                        "imageAlt": "Facebook Posts"
+                    }
+                },
+                                   "title": "YouTube Banner Maker",
+                    "content": "Tie your whole channel together using a beautiful &lt;a href=&quot;{contentUrl}&quot;&gt;YouTube banner&lt;/a&gt;. You will get everything you need to express yourself using design elements like fonts, colors and layout. Get a head start by browsing through a curated library of designs that fit every niches. Impress your viewers the first time they see your channel.",
+                    "contentUrl": "/youtube-cover-maker",
+                    "imageAlt": "YouTube Banners",
+                    "ctaLabel": "Make a YouTube Banner ",
+                    "ctaUrl": "/youtube-cover-maker",
+                    "imageName": "youtube-cover",
+                    "image": {
+                        "imageAlt": "YouTube Banners"
+                    }
+                },
+                {
+                    "title": "LinkedIn Banner Maker",
+                    "content": "Be an authoritative voice in your industry with an outstanding &lt;a href=&quot;{contentUrl}&quot;&gt;LinkedIn banner&lt;/a&gt;. Give our LinkedIn banner maker a spin and craft a design that will make your profile stand out. Find the best designs for B2Bs, B2Cs, and more. Customize professionally curated designs and apply your brand colors, fonts and layout to achieve a consistent look.",
+                    "contentUrl": "/linkedin-banner-maker",
+                    "imageAlt": "LinkedIn Banners",
+                    "ctaLabel": "Make a LinkedIn Banner",
+                    "ctaUrl": "/linkedin-banner-maker",
+                    "imageName": "linkedin-banner",
+                    "image": {
+                        "imageAlt": "LinkedIn Banners"
+                    }
+                },
+                {
+                    "title": "Email Signature Maker",
+                    "content": "Build trust from the first email with a standout &lt;a href=&quot;{contentUrl}&quot;&gt;email signature&lt;/a&gt;. The right design helps you connect with your target audience and drive more traffic to your website. Our maker and design library are all you need to create your ideal signoff. Personalize by changing design elements without breaking a sweat. Get the ideal design in minutes.",
+                    "contentUrl": "/email-signature-maker",
+                    "imageAlt": "Email Signatures",
+                    "ctaLabel": "Make an Email Signature ",
+                    "ctaUrl": "/email-signature-maker",
+                    "imageName": "email-signature",
+                    "image": {
+                        "imageAlt": "Email Signatures"
+                    }
+                },
+                {
+                    "title": "Letterhead Maker",
+                    "content": "Ensure consistency in all brand collateral by creating a stunning &lt;a href=&quot;{contentUrl}&quot;&gt;letterhead&lt;/a&gt;. The library gives you access to professional designs that will fit any brand, from tech to fashion. Get a recognizable letterhead design by incorporating your brand identity through font, colors and other elements. Become more credible with a letterhead from us.",
+                    "contentUrl": "/letterhead-maker",
+                    "imageAlt": "Letterheads",
+                    "ctaLabel": "Make a Letterhead ",
+                    "ctaUrl": "/letterhead-maker",
+                    "imageName": "letterhead",
+                    "image": {
+                        "imageAlt": "Letterheads"
+                    }
+                }
+  ],
   
   "logosToggleLabel": "LOGOS",
   "businessCardsToggleLabel": "Business Cards",
