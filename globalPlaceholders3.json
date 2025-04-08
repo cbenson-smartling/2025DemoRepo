@@ -1,0 +1,2711 @@
+{
+  
+    
+  "bc": {
+    "context": {
+      "head": {
+        "metas": []
+      }
+    },
+    "globalContent": {
+      "globalNavigation": {
+        "mobile": {
+          "perMonthLabel": "+{additionalPrice}/lmonth",
+  "perMonthLabelsf": "+{additionalPrice}/ months",
+  "perMonthLabel42": "+{[additionalPrice]}/lmonthh",
+  "perMonthLabelsf35": "+{[additionalPriccce]}/ monthss",
+          "mainMenuLabel": "Menu",
+          "backLabel": "Back",
+          "closeMenuLabel": "Close {mobile} menu",
+          "viewChildPagesLabel": "View {[child]} pages of"
+        },
+        "mainMenuItems": {
+          "logoMaker": {
+            "label": "Logo Maker",
+            "link": "/logo-maker",
+            "children": [
+              {
+                "label": "Popular Keywords",
+                "links": [
+                  {
+                    "label": "3d",
+                    "link": "/maker/tag/3d"
+                  },
+                  {
+                    "label": "Animal",
+                    "link": "/maker/tag/animal"
+                  },
+                  {
+                    "label": "Bird",
+                    "link": "/maker/tag/bird"
+                  },
+                  {
+                    "label": "Camera",
+                    "link": "/maker/tag/camera"
+                  },
+                  {
+                    "label": "Car",
+                    "link": "/maker/tag/car"
+                  },
+                  {
+                    "label": "Circle",
+                    "link": "/maker/tag/circle"
+                  },
+                  {
+                    "label": "Crown",
+                    "link": "/maker/tag/crown"
+                  },
+                  {
+                    "label": "Eagle",
+                    "link": "/maker/tag/eagle"
+                  },
+                  {
+                    "label": "Fire",
+                    "link": "/maker/tag/fire"
+                  },
+                  {
+                    "label": "Font",
+                    "link": "/maker/tag/font"
+                  },
+                  {
+                    "label": "Heart",
+                    "link": "/maker/tag/heart"
+                  },
+                  {
+                    "label": "House",
+                    "link": "/maker/tag/house"
+                  },
+                  {
+                    "label": "King",
+                    "link": "/maker/tag/king"
+                  },
+                  {
+                    "label": "Leaf",
+                    "link": "/maker/tag/leaf"
+                  },
+                  {
+                    "label": "Letter",
+                    "link": "/maker/tag/letter"
+                  },
+                  {
+                    "label": "Mascot",
+                    "link": "/maker/tag/mascot"
+                  },
+                  {
+                    "label": "Minimalist",
+                    "link": "/maker/tag/minimalist"
+                  },
+                  {
+                    "label": "Modern",
+                    "link": "/maker/tag/modern"
+                  },
+                  {
+                    "label": "Queen",
+                    "link": "/maker/tag/queen"
+                  },
+                  {
+                    "label": "Shield",
+                    "link": "/maker/tag/shield"
+                  },
+                  {
+                    "label": "Simple",
+                    "link": "/maker/tag/simple"
+                  },
+                  {
+                    "label": "Text",
+                    "link": "/maker/tag/text"
+                  },
+                  {
+                    "label": "Tree",
+                    "link": "/maker/tag/tree"
+                  },
+                  {
+                    "label": "Vintage",
+                    "link": "/maker/tag/vintage"
+                  }
+                ]
+              },
+              {
+                "label": "Top Industries",
+                "links": [
+                  {
+                    "label": "App",
+                    "link": "/maker/tag/app"
+                  },
+                  {
+                    "label": "Architecture",
+                    "link": "/maker/tag/architecture"
+                  },
+                  {
+                    "label": "Beauty",
+                    "link": "/maker/tag/beauty"
+                  },
+                  {
+                    "label": "Brand",
+                    "link": "/maker/tag/brand"
+                  },
+                  {
+                    "label": "Business",
+                    "link": "/maker/tag/business"
+                  },
+                  {
+                    "label": "Company",
+                    "link": "/maker/tag/company"
+                  },
+                  {
+                    "label": "Construction",
+                    "link": "/maker/tag/construction"
+                  },
+                  {
+                    "label": "DJ",
+                    "link": "/maker/tag/dj"
+                  },
+                  {
+                    "label": "Doctor",
+                    "link": "/maker/tag/doctor"
+                  },
+                  {
+                    "label": "Esports",
+                    "link": "/maker/tag/esports"
+                  },
+                  {
+                    "label": "Fashion",
+                    "link": "/maker/tag/fashion"
+                  },
+                  {
+                    "label": "Fitness",
+                    "link": "/maker/tag/fitness"
+                  },
+                  {
+                    "label": "Food",
+                    "link": "/maker/tag/food"
+                  },
+                  {
+                    "label": "Gaming",
+                    "link": "/maker/tag/gaming"
+                  },
+                  {
+                    "label": "Instagram",
+                    "link": "/maker/tag/instagram"
+                  },
+                  {
+                    "label": "Medical",
+                    "link": "/maker/tag/medical"
+                  },
+                  {
+                    "label": "Music",
+                    "link": "/maker/tag/music"
+                  },
+                  {
+                    "label": "Photography",
+                    "link": "/maker/tag/photograph"
+                  },
+                  {
+                    "label": "Real Estate",
+                    "link": "/maker/tag/real-estate"
+                  },
+                  {
+                    "label": "Restaurant",
+                    "link": "/maker/tag/restaurant"
+                  },
+                  {
+                    "label": "Social Media",
+                    "link": "/maker/tag/social-media"
+                  },
+                  {
+                    "label": "Sports",
+                    "link": "/maker/tag/sports"
+                  },
+                  {
+                    "label": "Technology",
+                    "link": "/maker/tag/technology"
+                  },
+                  {
+                    "label": "Travel",
+                    "link": "/maker/tag/travel"
+                  }
+                ]
+              }
+            ]
+          },
+          "businessCardMaker": {
+            "label": "Business Cards",
+            "link": "/business-card-maker",
+            "children": [
+              {
+                "label": "Popular Keywords",
+                "links": [
+                  {
+                    "label": "3d",
+                    "link": "/business-card-maker/tag/3d"
+                  },
+                  {
+                    "label": "Colorful",
+                    "link": "/business-card-maker/tag/colorful"
+                  },
+                  {
+                    "label": "Company",
+                    "link": "/business-card-maker/tag/company"
+                  },
+                  {
+                    "label": "Cool",
+                    "link": "/business-card-maker/tag/cool"
+                  },
+                  {
+                    "label": "Creative",
+                    "link": "/business-card-maker/tag/creative"
+                  },
+                  {
+                    "label": "Cute",
+                    "link": "/business-card-maker/tag/cute"
+                  },
+                  {
+                    "label": "Elegant",
+                    "link": "/business-card-maker/tag/elegant"
+                  },
+                  {
+                    
+                    "label": "Luxury",
+                    "link": "/business-card-maker/tag/luxury"
+                  },
+                  {
+                    "label": "Minimal",
+                    "link": "/business-card-maker/tag/minimal"
+                  },
+                  {
+                    "label": "Modern",
+                    "link": "/business-card-maker/tag/modern"
+                  },
+                  {
+                    "label": "Premium",
+                    "link": "/business-card-maker/tag/premium"
+                  },
+                  {
+                    "label": "Professional",
+                    "link": "/business-card-maker/tag/professional"
+                  },
+                  {
+                    "label": "Simple",
+                    "link": "/business-card-maker/tag/simple"
+                  },
+                  {
+                    "label": "Unique",
+                    "link": "/business-card-maker/tag/unique"
+                  }
+                ]
+              },
+              {
+                "label": "Top Industries",
+                "links": [
+                  {
+                    "label": "Bakery",
+                    "link": "/business-card-maker/tag/bakery"
+                  },
+                  {
+                    "label": "Barber",
+                    "link": "/business-card-maker/tag/barber"
+                  },
+                  {
+                    "label": "Beauty",
+                    "link": "/business-card-maker/tag/beauty"
+                  },
+                  {
+                    "label": "Cleaning",
+                    "link": "/business-card-maker/tag/cleaning"
+                  },
+                  {
+                    "label": "Cleaning Service",
+                    "link": "/business-card-maker/tag/cleaning-service"
+                  },
+                  {
+                    "label": "Construction",
+                    "link": "/business-card-maker/tag/construction"
+                  },
+                  {
+                    "label": "Electrician",
+                    "link": "/business-card-maker/tag/electrician"
+                  },
+                  {
+                    "label": "Handyman",
+                    "link": "/business-card-maker/tag/handyman"
+                  },
+                  {
+                    "label": "Insurance",
+                    "link": "/business-card-maker/tag/insurance"
+                  },
+                  {
+                    "label": "Landscaping",
+                    "link": "/business-card-maker/tag/landscaping"
+                  },
+                  {
+                    "label": "Lawyer",
+                    "link": "/business-card-maker/tag/lawyer"
+                  },
+                  {
+                    "label": "Photography",
+                    "link": "/business-card-maker/tag/photography"
+                  },
+                  {
+                    "label": "Real Estate",
+                    "link": "/business-card-maker/tag/real-estate"
+                  },
+                  {
+                    "label": "Restaurant",
+                    "link": "/business-card-maker/tag/restaurant"
+                  }
+                ]
+              }
+            ]
+          },
+          "social": {
+            "label": "Social",
+            "children": [
+              {
+                "label": "Social Media Covers",
+                "links": [
+                  {
+                    "label": "Facebook Covers",
+                    "link": "/facebook-cover-maker"
+                  },
+                  {
+                    "label": "YouTube Banners",
+                    "link": "/youtube-cover-maker"
+                  },
+                  {
+                    "label": "Twitch Banners",
+                    "link": "/twitch-banner-maker"
+                  },
+                  {
+                    "label": "LinkedIn Banners",
+                    "link": "/linkedin-banner-maker"
+                  },
+                  {
+                    "label": "Facebook Event Covers",
+                    "link": "/facebook-event-cover-maker"
+                  },
+                  {
+                    "label": "SoundCloud Banners",
+                    "link": "/soundcloud-banner-maker"
+                  },
+                  {
+                    "label": "Twitter Headers",
+                    "link": "/twitter-header-maker"
+                  },
+                  {
+                    "label": "Pinterest Board Covers",
+                    "link": "/pinterest-board-cover-maker"
+                  },
+                  {
+                    "label": "Zoom Backgrounds",
+                    "link": "/zoom-background-maker"
+                  },
+                  {
+                    "label": "Etsy Banners",
+                    "link": "/etsy-banner-maker"
+                  },
+                  {
+                    "label": "Tumblr Banners",
+                    "link": "/tumblr-banner-maker"
+                  }
+                ]
+              },
+              {
+                "label": "Social Media Posts",
+                "links": [
+                  {
+                    "label": "Instagram Posts",
+                    "link": "/instagram-post-maker"
+                  },
+                  {
+                    "label": "Instagram Stories",
+                    "link": "/instagram-story-maker"
+                  },
+                  {
+                    "label": "Facebook Posts",
+                    "link": "/facebook-post-maker"
+                  },
+                  {
+                    "label": "Facebook Stories",
+                    "link": "/facebook-story-maker"
+                  },
+                  {
+                    "label": "Facebook Ads",
+                    "link": "/facebook-ad-maker"
+                  },
+                  {
+                    "label": "Twitter Posts",
+                    "link": "/twitter-post-maker"
+                  },
+                  {
+                    "label": "LinkedIn Posts",
+                    "link": "/linkedin-post-maker"
+                  },
+                  {
+                    "label": "Pinterest Pins",
+                    "link": "/pinterest-pin-maker"
+                  },
+                  {
+                    "label": "TikTok Videos",
+                    "link": "/tiktok-video-maker"
+                  },
+                  {
+                    "label": "Instagram Reels",
+                    "link": "/instagram-reel-maker"
+                  },
+                  {
+                    "label": "YouTube Shorts",
+                    "link": "/youtube-short-maker"
+                  },
+                  {
+                    "label": "YouTube Videos",
+                    "link": "/youtube-video-maker"
+                  },
+                  {
+                    "label": "Whatsapp Stories",
+                    "link": "/whatsapp-story-maker"
+                  },
+                  {
+                    "label": "Snapchat Designs",
+                    "link": "/snapchat-maker"
+                  }
+                ]
+              },
+              {
+                "label": "Social Media Profile Pictures",
+                "links": [
+                  {
+                    "label": "Facebook Profile Pictures",
+                    "link": "/facebook-profile-picture-maker"
+                  },
+                  {
+                    "label": "Instagram Profile Pictures",
+                    "link": "/instagram-profile-picture-maker"
+                  },
+                  {
+                    "label": "LinkedIn Profile Pictures",
+                    "link": "/linkedin-profile-picture-maker"
+                  },
+                  {
+                    "label": "Pinterest Profile Pictures",
+                    "link": "/pinterest-profile-picture-maker"
+                  },
+                  {
+                    "label": "SoundCloud Profile Pictures",
+                    "link": "/soundcloud-profile-picture-maker"
+                  },
+                  {
+                    "label": "Tumblr Profile Pictures",
+                    "link": "/tumblr-profile-picture-maker"
+                  },
+                  {
+                    "label": "Twitch Profile Pictures",
+                    "link": "/twitch-profile-picture-maker"
+                  },
+                  {
+                    "label": "YouTube Channel Icons",
+                    "link": "/youtube-channel-icon-maker"
+                  }
+                ]
+              }
+            ]
+          },
+          "more": {
+            "label": "More",
+            "optionalItems": {
+              "qrCode": {
+                "label": "QR Codes",
+                "link": "/qr-code-generator"
+              },
+              "presentations": {
+                "label": "Presentations",
+                "link": "/presentation-maker"
+              }
+            },
+            "children": [
+              {
+                "links": [
+                  {
+                    "label": "Email Signatures",
+                    "link": "/email-signature-maker"
+                  },
+                  {
+                    "label": "Letterheads",
+                    "link": "/letterhead-maker"
+                  },
+                  {
+                    "label": "Posters",
+                    "link": "/poster-maker"
+                  },
+                  {
+                    "label": "Flyers",
+                    "link": "/flyer-maker"
+                  },
+                  {
+                    "label": "Invoices",
+                    "link": "/invoice-maker"
+                  },
+                  {
+                    "label": "Menus",
+                    "link": "/menu-maker"
+                  },
+                  {
+                    "label": "Postcards",
+                    "link": "/postcard-maker"
+                  },
+                  {
+                    "label": "Gift Certificates",
+                    "link": "/gift-certificate-maker"
+                  },
+                  {
+                    "label": "Invitations",
+                    "link": "/invitation-maker"
+                  },
+                  {
+                    "label": "Thank You Cards",
+                    "link": "/thank-you-card-maker"
+                  },
+                  {
+                    "label": "Videos",
+                    "link": "/video-maker"
+                  },
+                  {
+                    "label": "Animations",
+                    "link": "/animation-maker"
+                  },
+                  {
+                    "label": "T-Shirts",
+                    "link": "/t-shirt-maker"
+                  }
+                ]
+              }
+            ]
+          },
+          "websites": {
+            "label": "Websites",
+            "link": "/website-builder",
+            "items": {
+              "websiteBuilder": {
+                "label": "Website Builder",
+                "link": "/website-builder"
+              },
+              "linkInBio": {
+                "label": "Link in Bio",
+                "link": "/link-in-bio"
+              },
+              "digitalBusinessCard": {
+                "label": "Digital Business Cards",
+                "link": "/digital-business-card"
+              },
+              "domainNames": {
+                "label": "Domain Names",
+                "link": "/domain-names"
+              }
+            }
+          },
+          "ai": {
+            "label": "AI",
+            "link": "/ai",
+            "items": {
+              "backgroundRemover": {
+                "label": "AI Background Remover",
+                "link": "/background-remover"
+              },
+              "businessNameGenerator": {
+                "label": "AI Business Name Generator",
+                "link": "/business-name-generator"
+              },
+              "aiLogoGenerator": {
+                "label": "AI Logo Generator",
+                "link": "/ai-logo-generator"
+              },
+              "aiDomainNames": {
+                "label": "AI Domain Name Generator",
+                "link": "/ai-domain-name-generator"
+              },
+              "aiWebsiteGenerator": {
+                "label": "AI Website Generator",
+                "link": "/ai-website-generator"
+              },
+              "aiBusinessCardGenerator": {
+                "label": "AI Business Card Generator",
+                "link": "/ai-business-card-generator"
+              },
+              "aiFlyerGenerator": {
+                "label": "AI Flyer Generator",
+                "link": "/ai-flyer-generator"
+              },
+              "aiPosterGenerator": {
+                "label": "AI Poster Generator",
+                "link": "/ai-poster-generator"
+              },
+              "aiLinkInBioGenerator": {
+                "label": "AI Link in Bio Generator",
+                "link": "/ai-link-in-bio-generator"
+              },
+              "aiPresentationGenerator": {
+                "label": "AI Presentation Generator",
+                "link": "/ai-presentation-maker"
+              }
+            }
+          }
+        },
+        "myAccountNav": {
+          "myAccountLabel": "My Account",
+          "loginLabel": "Log in",
+          "logosLabel": "Logos",
+          "logoRootPath": "/maker/mylogos",
+          "designsLabel": "All Designs",
+          "designsPath": "/maker/mydesigns",
+          "logoTemplatesPath": "/maker/mydesigns/default/templatetypes",
+          "manageWebPagePath": "/maker/website/manage",
+          "manageDomainNamesPath": "/maker/domain-names",
+          "createDomainNamesPath": "/maker/domain-names/new",
+          "savedDesignsLabel": "Saved Designs",
+          "logoDraftsPath": "/maker/savedlogos/drafts",
+          "shortlistPath": "/maker/shortlist",
+          "draftBusinessCardPath": "/maker/savedbusinesscards/drafts",
+          "businessCardShortlistPath": "/business-card-shortlist",
+          "designShortlistPath": "/design-shortlist",
+          "websiteShortlistPath": "/website-shortlist",
+          "draftDesignsPath": "/maker/saveddesigns/drafts",
+          "printLabel": "Printing",
+          "printPath": "/maker/mylogos/printings",
+          "accountSettingsLabel": "Account Settings",
+          "accountSettingsPath": "/maker/account/settings",
+          "upgradeAccountLabel": "Upgrade Account",
+          "upgradeAccountPath": "/maker/logo/upgrade-account?nav=menu_upgrade_account",
+          "myLogosHeaderLink": "MyLogosHeaderLink",
+          "createNewDesignLabel": "Create New Design",
+          "createNewDesignPath": "/maker/mydesigns/default/templatetypes",
+          "logoutLabel": "Sign Out",
+          "logoutPath": "/maker/account/logout",
+          "pollsLabel": "Create A Poll",
+          "managePollsLabel": "Manage Polls",
+          "websiteLabel": "Website",
+          "domainsLabel": "Domains",
+          "newPollsPath": "/polls/new",
+          "myPollsPath": "/polls/my-polls",
+          "loginModalTitle": "Log in to your account",
+          "loginModalDescription": "Enter your email address to log in to your account",
+          "loginModalButtonLabel": "Login"
+        }
+      },
+      "footer": {
+        "copyright": {
+          "label": "Copyright",
+          "allRightsReservedLabel": "All Rights Reserved.",
+          "statementText": "All individual works are copyright protected by their respective owners & contributors.",
+          "bonusText": "BrandCrowd is handcrafted from around the world"
+        },
+        "links": {
+          "companyTitle": "Company",
+          "aiTitle": "AI",
+          "logoMaker": {
+            "label": "Logo Maker",
+            "link": "/logo-maker"
+          },
+          "logoTemplates": {
+            "label": "Logo Templates",
+            "link": "/maker/logos"
+          },
+          "logoIdeas": {
+            "label": "Logo Ideas",
+            "link": "/maker/logo-ideas"
+          },
+          "businessCardMaker": {
+            "label": "Business card maker",
+            "link": "/business-card-maker"
+          },
+          "freeLogos": {
+            "label": "Free Logos",
+            "link": "/maker/free-logos"
+          },
+          "freeBusinessCards": {
+            "label": "Free Business Cards",
+            "link": "/business-card-maker/free-business-cards"
+          },
+          "businessNameGenerator": {
+            "label": "Business Name Generator",
+            "link": "/business-name-generator"
+          },
+          "aiLogoGenerator": {
+            "label": "AI Logo Generator",
+            "link": "/ai-logo-generator"
+          },
+          "backgroundRemover": {
+            "label": "Background Remover",
+            "link": "/background-remover"
+          },
+          "customDesign": {
+            "label": "Custom Design",
+            "link": "https://www.designcrowd.com"
+          },
+          "websiteBuilder": {
+            "label": "Website Builder",
+            "link": "/website-builder"
+          },
+          "linkInBio": {
+            "label": "Link in Bio",
+            "link": "/link-in-bio"
+          },
+          "digitalBusinessCard": {
+            "label": "Digital Business Cards",
+            "link": "/digital-business-card"
+          },
+          "aiDomainNameGenerator": {
+            "label": "AI Domain Name Generator",
+            "link": "/ai-domain-name-generator"
+          },
+          "domainNames": {
+            "label": "Domain Names",
+            "link": "/domain-names"
+          },
+          "about": {
+            "label": "About us",
+            "link": "/maker/about"
+          },
+          "blog": {
+            "label": "Blog",
+            "link": "https://www.brandcrowd.com/blog/"
+          },
+          "affiliate": {
+            "label": "Affiliate program",
+            "link": "/maker/affiliate"
+          },
+          "contactUs": {
+            "label": "Contact us",
+            "link": "/maker/contact"
+          },
+          "legal": {
+            "label": "Legals",
+            "link": "/maker/legals/termsofuse"
+          },
+          "privacyPolicy": {
+            "label": "Privacy policy",
+            "link": "/maker/legals/privacy"
+          },
+          "sellLogos": {
+            "label": "Sell Logos",
+            "link": "/maker/sell-logos"
+          },
+          "cookies": {
+            "label": "Cookies",
+            "link": "/maker/cookies"
+          },
+          "aiDesignTools": {
+            "label": "AI Design Tools",
+            "link": "/ai"
+          },
+          "aiWebsiteGenerator": {
+            "label": "AI Website Generator",
+            "link": "/ai-website-generator"
+          },
+          "aiBusinessCardGenerator": {
+            "label": "AI Business Card Generator",
+            "link": "/ai-business-card-generator"
+          },
+          "aiFlyerGenerator": {
+            "label": "AI Flyer Generator",
+            "link": "/ai-flyer-generator"
+          },
+          "aiPosterGenerator": {
+            "label": "AI Poster Generator",
+            "link": "/ai-poster-generator"
+          },
+          "aiLinkInBioGenerator": {
+            "label": "AI Link in Bio Generator",
+            "link": "/ai-link-in-bio-generator"
+          },
+          "aiPresentationGenerator": {
+            "label": "AI Presentation Generator",
+            "link": "/ai-presentation-maker"
+          }
+        },
+        "popularResources": {
+          "standardTitle": "Find a logo",
+          "fullWidthTitle": "Logos",
+          "resources": {
+            "app": {
+              "label": "App logo",
+              "link": "/maker/tag/app"
+            },
+            "bakery": {
+              "label": "Bakery logo",
+              "link": "/maker/tag/bakery"
+            },
+            "beauty": {
+              "label": "Beauty logo",
+              "link": "/maker/tag/beauty"
+            },
+            "brand": {
+              "label": "Brand logo",
+              "link": "/maker/tag/brand"
+            },
+            "business": {
+              "label": "Business logo",
+              "link": "/maker/tag/business"
+            },
+            "camera": {
+              "label": "Camera logo",
+              "link": "/maker/tag/camera"
+            },
+            "coffee": {
+              "label": "Coffee logo",
+              "link": "/maker/tag/coffee"
+            },
+            "company": {
+              "label": "Company logo",
+              "link": "/maker/tag/company"
+            },
+            "construction": {
+              "label": "Construction logo",
+              "link": "/maker/tag/construction"
+            },
+            "crown": {
+              "label": "Crown logo",
+              "link": "/maker/tag/crown"
+            },
+            "dj": {
+              "label": "Dj logo",
+              "link": "/maker/tag/dj"
+            },
+            "doctor": {
+              "label": "Doctor logo",
+              "link": "/maker/tag/doctor"
+            },
+            "eagle": {
+              "label": "Eagle logo",
+              "link": "/maker/tag/eagle"
+            },
+            "education": {
+              "label": "Education logo",
+              "link": "/maker/tag/education"
+            },
+            "fashion": {
+              "label": "Fashion logo",
+              "link": "/maker/tag/fashion"
+            },
+            "font": {
+              "label": "Font logo",
+              "link": "/maker/tag/font"
+            },
+            "food": {
+              "label": "Food logo",
+              "link": "/maker/tag/food"
+            },
+            "gaming": {
+              "label": "Gaming logo",
+              "link": "/maker/tag/gaming"
+            },
+            "gym": {
+              "label": "Gym logo",
+              "link": "/maker/tag/gym"
+            },
+            "letter": {
+              "label": "Letter logo",
+              "link": "/maker/tag/letter"
+            },
+            "lion": {
+              "label": "Lion logo",
+              "link": "/maker/tag/lion"
+            },
+            "mountain": {
+              "label": "Mountain logo",
+              "link": "/maker/tag/mountain"
+            },
+            "music": {
+              "label": "Music logo",
+              "link": "/maker/tag/music"
+            },
+            "name": {
+              "label": "Name logo",
+              "link": "/maker/tag/name"
+            },
+            "photography": {
+              "label": "Photography logo",
+              "link": "/maker/tag/photography"
+            },
+            "realEstate": {
+              "label": "Real Estate logo",
+              "link": "/maker/tag/real-estate"
+            },
+            "restaurant": {
+              "label": "Restaurant logo",
+              "link": "/maker/tag/restaurant"
+            },
+            "shop": {
+              "label": "Shop logo",
+              "link": "/maker/tag/shop"
+            },
+            "socialMedia": {
+              "label": "Social Media logo",
+              "link": "/maker/tag/social-media"
+            },
+            "sports": {
+              "label": "Sports logo",
+              "link": "/maker/tag/sports"
+            },
+            "car": {
+              "label": "Car logo",
+              "link": "/maker/tag/car"
+            },
+            "monogram": {
+              "label": "Monogram logo",
+              "link": "/maker/tag/monogram"
+            },
+            "school": {
+              "label": "School logo",
+              "link": "/maker/tag/school"
+            },
+            "youtube": {
+              "label": "Youtube logo",
+              "link": "/maker/tag/youtube"
+            },
+            "threeD": {
+              "label": "3D logo",
+              "link": "/maker/tag/3d"
+            },
+            "cool": {
+              "label": "Cool logo",
+              "link": "/maker/tag/cool"
+            },
+            "circle": {
+              "label": "Circle logo",
+              "link": "/maker/tag/circle"
+            },
+            "cartoon": {
+              "label": "Cartoon Logo",
+              "link": "/maker/tag/cartoon"
+            },
+            "travel": {
+              "label": "Travel logo",
+              "link": "/maker/tag/travel"
+            },
+            "cafe": {
+              "label": "Cafe logo",
+              "link": "/maker/tag/cafe"
+            },
+            "podcast": {
+              "label": "Podcast logo",
+              "link": "/maker/tag/podcast"
+            },
+            "text": {
+              "label": "Text logo",
+              "link": "/maker/tag/text"
+            },
+            "icon": {
+              "label": "Icon logo",
+              "link": "/maker/tag/icon"
+            },
+            "word": {
+              "label": "Word logo",
+              "link": "/maker/tag/word"
+            },
+            "team": {
+              "label": "Team logo",
+              "link": "/maker/tag/team"
+            },
+            "barber": {
+              "label": "Barber logo",
+              "link": "/maker/tag/barber"
+            },
+            "web": {
+              "label": "Web logo",
+              "link": "/maker/tag/web"
+            },
+            "pizza": {
+              "label": "Pizza logo",
+              "link": "/maker/tag/pizza"
+            },
+            "simple": {
+              "label": "Simple logo",
+              "link": "/maker/tag/simple"
+            },
+            "symbol": {
+              "label": "Symbol logo",
+              "link": "/maker/tag/symbol"
+            },
+            "football": {
+              "label": "Football logo",
+              "link": "/maker/tag/football"
+            }
+          }
+        },
+        "social": {
+          "title": "Social media",
+          "links": [
+            {
+              "type": "facebook",
+              "link": "https://www.facebook.com/BrandCrowd"
+            },
+            {
+              "type": "twitter",
+              "link": "https://twitter.com/Brand_Crowd"
+            },
+            {
+              "type": "instagram",
+              "link": "https://www.instagram.com/brandcrowd/"
+            }
+          ]
+        },
+        "designTemplates": {
+          "standardTitle": "Design Templates",
+          "fullWidthTitle": "Create Designs",
+          "facebookPosts": {
+            "label": "Facebook Posts",
+            "link": "/facebook-post-maker"
+          },
+          "facebookStories": {
+            "label": "Facebook Stories",
+            "link": "/facebook-story-maker"
+          },
+          "facebookCovers": {
+            "label": "Facebook Covers",
+            "link": "/facebook-cover-maker"
+          },
+          "facebookEvents": {
+            "label": "Facebook Events",
+            "link": "/facebook-event-cover-maker"
+          },
+          "facebookAds": {
+            "label": "Facebook Ads",
+            "link": "/facebook-ad-maker"
+          },
+          "facebookProfilePictures": {
+            "label": "Facebook Profile Pictures",
+            "link": "/facebook-profile-picture-maker"
+          },
+          "instagramPosts": {
+            "label": "Instagram Posts",
+            "link": "/instagram-post-maker"
+          },
+          "instagramReels": {
+            "label": "Instagram Reels",
+            "link": "/instagram-reel-maker"
+          },
+          "instagramStories": {
+            "label": "Instagram Stories",
+            "link": "/instagram-story-maker"
+          },
+          "instagramProfilePictures": {
+            "label": "Instagram Profile Pictures",
+            "link": "/instagram-profile-picture-maker"
+          },
+          "linkedinBanners": {
+            "label": "LinkedIn Banners",
+            "link": "/linkedin-banner-maker"
+          },
+          "linkedinPosts": {
+            "label": "LinkedIn Posts",
+            "link": "/linkedin-post-maker"
+          },
+          "linkedinProfilePictures": {
+            "label": "LinkedIn Profile Pictures",
+            "link": "/linkedin-profile-picture-maker"
+          },
+          "pinterestPins": {
+            "label": "Pinterest Pins",
+            "link": "/pinterest-pin-maker"
+          },
+          "pinterestCovers": {
+            "label": "Pinterest Covers",
+            "link": "/pinterest-board-cover-maker"
+          },
+          "pinterestProfilePictures": {
+            "label": "Pinterest Profile Pictures",
+            "link": "/pinterest-profile-picture-maker"
+          },
+          "snapchatDesigns": {
+            "label": "Snapchat Designs",
+            "link": "/snapchat-maker"
+          },
+          "soundcloudBanners": {
+            "label": "SoundCloud Banners",
+            "link": "/soundcloud-banner-maker"
+          },
+          "soundcloudProfilePictures": {
+            "label": "SoundCloud Profile Pictures",
+            "link": "/soundcloud-profile-picture-maker"
+          },
+          "tiktokVideos": {
+            "label": "TikTok Videos",
+            "link": "/tiktok-video-maker"
+          },
+          "tumblrProfilePictures": {
+            "label": "Tumblr Profile Pictures",
+            "link": "/tumblr-profile-picture-maker"
+          },
+          "tumblrBanners": {
+            "label": "Tumblr Banners",
+            "link": "/tumblr-banner-maker"
+          },
+          "twitchBanners": {
+            "label": "Twitch Banners",
+            "link": "/twitch-banner-maker"
+          },
+          "twitchProfilePictures": {
+            "label": "Twitch Profile Pictures",
+            "link": "/twitch-profile-picture-maker"
+          },
+          "twitterHeaders": {
+            "label": "Twitter Headers",
+            "link": "/twitter-header-maker"
+          },
+          "twitterPosts": {
+            "label": "Twitter Posts",
+            "link": "/twitter-post-maker"
+          },
+          "whatsappStories": {
+            "label": "Whatsapp Stories",
+            "link": "/whatsapp-story-maker"
+          },
+          "youtubeBanners": {
+            "label": "YouTube Banners",
+            "link": "/youtube-cover-maker"
+          },
+          "youtubeShorts": {
+            "label": "YouTube Shorts",
+            "link": "/youtube-short-maker"
+          },
+          "youtubeVideos": {
+            "label": "YouTube Videos",
+            "link": "/youtube-video-maker"
+          },
+          "youtubeChannelIcons": {
+            "label": "YouTube Channel Icons",
+            "link": "/youtube-channel-icon-maker"
+          },
+          "zoomBackgrounds": {
+            "label": "Zoom Backgrounds",
+            "link": "/zoom-background-maker"
+          },
+          "emailSignatures": {
+            "label": "Email Signatures",
+            "link": "/email-signature-maker"
+          },
+          "invoices": {
+            "label": "Invoices",
+            "link": "/invoice-maker"
+          },
+          "menus": {
+            "label": "Menus",
+            "link": "/menu-maker"
+          },
+          "flyers": {
+            "label": "Flyers",
+            "link": "/flyer-maker"
+          },
+          "postcards": {
+            "label": "Postcards",
+            "link": "/postcard-maker"
+          },
+          "posters": {
+            "label": "Posters",
+            "link": "/poster-maker"
+          },
+          "giftCertificates": {
+            "label": "Gift Certificates",
+            "link": "/gift-certificate-maker"
+          },
+          "invitations": {
+            "label": "Invitations",
+            "link": "/invitation-maker"
+          },
+          "thankYouCards": {
+            "label": "Thank You Cards",
+            "link": "/thank-you-card-maker"
+          },
+          "tShirts": {
+            "label": "T-Shirts",
+            "link": "/t-shirt-maker"
+          },
+          "videos": {
+            "label": "Videos",
+            "link": "/video-maker"
+          },
+          "animations": {
+            "label": "Animations",
+            "link": "/animation-maker"
+          },
+          "letterheads": {
+            "label": "Letterheads",
+            "link": "/letterhead-maker"
+          },
+          "etsyBanners": {
+            "label": "Etsy Banners",
+            "link": "/etsy-banner-maker"
+          },
+          "qrCodes": {
+            "label": "QR Code",
+            "link": "/qr-code-generator"
+          },
+          "presentations": {
+            "label": "Presentations",
+            "link": "/presentation-maker"
+          }
+        }
+      },
+      "signIn": {
+        "authModal": {
+          "default": {
+            "title": "View your designs",
+            "description": "Enter your email address to view your designs"
+          },
+          "logoMakerDownload": {
+            "title": "Download your logo",
+            "description": "Enter your email to edit and download your logo"
+          },
+          "logoMakerSave": {
+            "title": "Start Editing",
+            "description": "Enter your email and start editing your logo"
+          },
+          "websiteMakerDownload": {
+            "title": "Purchase your website",
+            "description": "Enter your email & start hosting your own website"
+          },
+          "uploadUserLogo": {
+            "title": "Keep track of your uploaded logo",
+            "description": "Enter your email to upload your logo"
+          },
+          "landing": {
+            "title": "View your designs",
+            "description": "Enter your email address to view your designs"
+          },
+          "shortlist": {
+            "title": "Save your favourite logos",
+            "description": "Enter your email & we'll save your favourite logos"
+          },
+          "businessCardShortlist": {
+            "title": "Save your favourite business cards",
+            "description": "Enter your email & we'll save your favourite business cards"
+          },
+          "designShortlist": {
+            "title": "Save your favourite designs",
+            "description": "Enter your email & we'll save your favourite designs"
+          },
+          "insistTerms": {
+            "title": "Confirm your email address",
+            "description": "Confirm your email address"
+          },
+          "saveOnLanding": {
+            "title": "Save progress",
+            "description": "Enter your email & we'll save your work automatically"
+          },
+          "save": {
+            "title": "Save progress",
+            "description": "Enter your email & we'll save your work automatically"
+          },
+          "download": {
+            "title": "Download your {0}",
+            "description": "Where should we send the design files?"
+          },
+          "print": {
+            "title": "Print your {0}",
+            "description": "Where should we send the design files?"
+          },
+          "backgroundRemover": {
+            "title": "Sign up to upload your image",
+            "description": "Enter your email to upload your image"
+          },
+          "mandatory": {
+            "title": "Save your favourite designs",
+            "description": "Enter your email & we'll save your favourite designs"
+          }
+        },
+        "emailPlaceholderLabel": "Email address",
+        "emailLabel": "Email",
+        "passwordPlaceholderLabel": "Password",
+        "forgotPasswordLabel": "Forgot Password?",
+        "orLabel": "or",
+        "signUpLabel": "Sign Up",
+        "loginLabel": "Login",
+        "alreadyHaveAnAccountLabel": "Already have an account?",
+        "termsAndConditions": {
+          "label": "By proceeding you accept our {termsOfUseLabel} and {privacyPolicyLabel} and agree to receive future updates from BrandCrowd",
+          "termsOfUseLabel": "Terms of Use",
+          "privacyPolicyLabel": "Privacy Policy"
+        },
+        "loginWithFacebookLabel": "Continue with Facebook",
+        "loginWithGoogleLabel": "Continue with Google",
+        "invalidUsernameErrorLabel": "Please enter a valid email address",
+        "missingPasswordErrorLabel": "Please enter a password",
+        "submissionButtonLabel": "Continue",
+        "forgotPassword": {
+          "resendPasswordEmailLabel": "RESEND EMAIL",
+          "resetPasswordLabel": "RESET PASSWORD",
+          "rememberedPasswordLabel": "It's ok, I remembered my password",
+          "goBackToLoginLabel": "Go back to login",
+          "emailAddressPlaceholderLabel": "Email address",
+          "emailLabel": "Email",
+          "description": "Enter your email below. We will then send a reset-password link to your email address.",
+          "title": "Forgot your password?"
+        }
+      },
+      "myAccount": {
+        "pageTabs": {
+          "logosLabel": "([Logos])",
+          "logosWithCountLabel": "Logos ([logoCount])",
+          "allDesignsLabel": "All Designs",
+          "allDesignsWithCountLabel": "All Designs ([allDesignsCount])",
+          "printingLabel": "Printing",
+          "websitesLabel": "Websites",
+          "websitesWithCountLabel": "Websites ([websitesCount])",
+          "domainsLabel": "Domains",
+          "domainsWithCountLabel": "Domains ([domainsCount])",
+          "settingsLabel": "Account ([Settings])"
+        }
+      }
+    }
+  },
+  "dcom": {
+    "context": {
+      "head": {
+        "metas": []
+      }
+    },
+    "globalContent": {
+      "globalNavigation": {
+        "mobile": {
+          "mainMenuLabel": "Menu",
+          "backLabel": "Back",
+          "closeMenuLabel": "Close mobile menu",
+          "viewChildPagesLabel": "View child pages of"
+        },
+        "mainMenuItems": {
+          "logoMaker": {
+            "label": "Logos",
+            "link": "/logo-maker",
+            "children": [
+              {
+                "label": "Popular Keywords",
+                "links": [
+                  {
+                    "label": "3d",
+                    "link": "/maker/tag/3d"
+                  },
+                  {
+                    "label": "Animal",
+                    "link": "/maker/tag/animal"
+                  },
+                  {
+                    "label": "Bird",
+                    "link": "/maker/tag/bird"
+                  },
+                  {
+                    "label": "Camera",
+                    "link": "/maker/tag/camera"
+                  },
+                  {
+                    "label": "Car",
+                    "link": "/maker/tag/car"
+                  },
+                  {
+                    "label": "Circle",
+                    "link": "/maker/tag/circle"
+                  },
+                  {
+                    "label": "Crown",
+                    "link": "/maker/tag/crown"
+                  },
+                  {
+                    "label": "Eagle",
+                    "link": "/maker/tag/eagle"
+                  },
+                  {
+                    "label": "Fire",
+                    "link": "/maker/tag/fire"
+                  },
+                  {
+                    "label": "Font",
+                    "link": "/maker/tag/font"
+                  },
+                  {
+                    "label": "Heart",
+                    "link": "/maker/tag/heart"
+                  },
+                  {
+                    "label": "House",
+                    "link": "/maker/tag/house"
+                  },
+                  {
+                    "label": "King",
+                    "link": "/maker/tag/king"
+                  },
+                  {
+                    "label": "Leaf",
+                    "link": "/maker/tag/leaf"
+                  },
+                  {
+                    "label": "Letter",
+                    "link": "/maker/tag/letter"
+                  },
+                  {
+                    "label": "Mascot",
+                    "link": "/maker/tag/mascot"
+                  },
+                  {
+                    "label": "Minimalist",
+                    "link": "/maker/tag/minimalist"
+                  },
+                  {
+                    "label": "Modern",
+                    "link": "/maker/tag/modern"
+                  },
+                  {
+                    "label": "Queen",
+                    "link": "/maker/tag/queen"
+                  },
+                  {
+                    "label": "Shield",
+                    "link": "/maker/tag/shield"
+                  },
+                  {
+                    "label": "Simple",
+                    "link": "/maker/tag/simple"
+                  },
+                  {
+                    "label": "Text",
+                    "link": "/maker/tag/text"
+                  },
+                  {
+                    "label": "Tree",
+                    "link": "/maker/tag/tree"
+                  },
+                  {
+                    "label": "Vintage",
+                    "link": "/maker/tag/vintage"
+                  }
+                ]
+              },
+              {
+                "label": "Top Industries",
+                "links": [
+                  {
+                    "label": "App",
+                    "link": "/maker/tag/app"
+                  },
+                  {
+                    "label": "Architecture",
+                    "link": "/maker/tag/architecture"
+                  },
+                  {
+                    "label": "Beauty",
+                    "link": "/maker/tag/beauty"
+                  },
+                  {
+                    "label": "Brand",
+                    "link": "/maker/tag/brand"
+                  },
+                  {
+                    "label": "Business",
+                    "link": "/maker/tag/business"
+                  },
+                  {
+                    "label": "Company",
+                    "link": "/maker/tag/company"
+                  },
+                  {
+                    "label": "Construction",
+                    "link": "/maker/tag/construction"
+                  },
+                  {
+                    "label": "DJ",
+                    "link": "/maker/tag/dj"
+                  },
+                  {
+                    "label": "Doctor",
+                    "link": "/maker/tag/doctor"
+                  },
+                  {
+                    "label": "Esports",
+                    "link": "/maker/tag/esports"
+                  },
+                  {
+                    "label": "Fashion",
+                    "link": "/maker/tag/fashion"
+                  },
+                  {
+                    "label": "Fitness",
+                    "link": "/maker/tag/fitness"
+                  },
+                  {
+                    "label": "Food",
+                    "link": "/maker/tag/food"
+                  },
+                  {
+                    "label": "Gaming",
+                    "link": "/maker/tag/gaming"
+                  },
+                  {
+                    "label": "Instagram",
+                    "link": "/maker/tag/instagram"
+                  },
+                  {
+                    "label": "Medical",
+                    "link": "/maker/tag/medical"
+                  },
+                  {
+                    "label": "Music",
+                    "link": "/maker/tag/music"
+                  },
+                  {
+                    "label": "Photography",
+                    "link": "/maker/tag/photograph"
+                  },
+                  {
+                    "label": "Real Estate",
+                    "link": "/maker/tag/real-estate"
+                  },
+                  {
+                    "label": "Restaurant",
+                    "link": "/maker/tag/restaurant"
+                  },
+                  {
+                    "label": "Social Media",
+                    "link": "/maker/tag/social-media"
+                  },
+                  {
+                    "label": "Sports",
+                    "link": "/maker/tag/sports"
+                  },
+                  {
+                    "label": "Technology",
+                    "link": "/maker/tag/technology"
+                  },
+                  {
+                    "label": "Travel",
+                    "link": "/maker/tag/travel"
+                  }
+                ]
+              }
+            ]
+          },
+          "businessCardMaker": {
+            "label": "Business Cards",
+            "link": "/business-card-maker",
+            "children": [
+              {
+                "label": "Popular Keywords",
+                "links": [
+                  {
+                    "label": "3d",
+                    "link": "/business-card-maker/tag/3d"
+                  },
+                  {
+                    "label": "Colorful",
+                    "link": "/business-card-maker/tag/colorful"
+                  },
+                  {
+                    "label": "Company",
+                    "link": "/business-card-maker/tag/company"
+                  },
+                  {
+                    "label": "Cool",
+                    "link": "/business-card-maker/tag/cool"
+                  },
+                  {
+                    "label": "Creative",
+                    "link": "/business-card-maker/tag/creative"
+                  },
+                  {
+                    "label": "Cute",
+                    "link": "/business-card-maker/tag/cute"
+                  },
+                  {
+                    "label": "Elegant",
+                    "link": "/business-card-maker/tag/elegant"
+                  },
+                  {
+                    "label": "Luxury",
+                    "link": "/business-card-maker/tag/luxury"
+                  },
+                  {
+                    "label": "Minimal",
+                    "link": "/business-card-maker/tag/minimal"
+                  },
+                  {
+                    "label": "Modern",
+                    "link": "/business-card-maker/tag/modern"
+                  },
+                  {
+                    "label": "Premium",
+                    "link": "/business-card-maker/tag/premium"
+                  },
+                  {
+                    "label": "Professional",
+                    "link": "/business-card-maker/tag/professional"
+                  },
+                  {
+                    "label": "Simple",
+                    "link": "/business-card-maker/tag/simple"
+                  },
+                  {
+                    "label": "Unique",
+                    "link": "/business-card-maker/tag/unique"
+                  }
+                ]
+              },
+              {
+                "label": "Top Industries",
+                "links": [
+                  {
+                    "label": "Bakery",
+                    "link": "/business-card-maker/tag/bakery"
+                  },
+                  {
+                    "label": "Barber",
+                    "link": "/business-card-maker/tag/barber"
+                  },
+                  {
+                    "label": "Beauty",
+                    "link": "/business-card-maker/tag/beauty"
+                  },
+                  {
+                    "label": "Cleaning",
+                    "link": "/business-card-maker/tag/cleaning"
+                  },
+                  {
+                    "label": "Cleaning Service",
+                    "link": "/business-card-maker/tag/cleaning-service"
+                  },
+                  {
+                    "label": "Construction",
+                    "link": "/business-card-maker/tag/construction"
+                  },
+                  {
+                    "label": "Electrician",
+                    "link": "/business-card-maker/tag/electrician"
+                  },
+                  {
+                    "label": "Handyman",
+                    "link": "/business-card-maker/tag/handyman"
+                  },
+                  {
+                    "label": "Insurance",
+                    "link": "/business-card-maker/tag/insurance"
+                  },
+                  {
+                    "label": "Landscaping",
+                    "link": "/business-card-maker/tag/landscaping"
+                  },
+                  {
+                    "label": "Lawyer",
+                    "link": "/business-card-maker/tag/lawyer"
+                  },
+                  {
+                    "label": "Photography",
+                    "link": "/business-card-maker/tag/photography"
+                  },
+                  {
+                    "label": "Real Estate",
+                    "link": "/business-card-maker/tag/real-estate"
+                  },
+                  {
+                    "label": "Restaurant",
+                    "link": "/business-card-maker/tag/restaurant"
+                  }
+                ]
+              }
+            ]
+          },
+          "social": {
+            "label": "Social",
+            "children": [
+              {
+                "label": "Social Media Covers",
+                "links": [
+                  {
+                    "label": "Facebook Covers",
+                    "link": "/facebook-cover-maker"
+                  },
+                  {
+                    "label": "YouTube Banners",
+                    "link": "/youtube-cover-maker"
+                  },
+                  {
+                    "label": "Twitch Banners",
+                    "link": "/twitch-banner-maker"
+                  },
+                  {
+                    "label": "LinkedIn Banners",
+                    "link": "/linkedin-banner-maker"
+                  },
+                  {
+                    "label": "Facebook Event Covers",
+                    "link": "/facebook-event-cover-maker"
+                  },
+                  {
+                    "label": "SoundCloud Banners",
+                    "link": "/soundcloud-banner-maker"
+                  },
+                  {
+                    "label": "Twitter Headers",
+                    "link": "/twitter-header-maker"
+                  },
+                  {
+                    "label": "Pinterest Board Covers",
+                    "link": "/pinterest-board-cover-maker"
+                  },
+                  {
+                    "label": "Zoom Backgrounds",
+                    "link": "/zoom-background-maker"
+                  },
+                  {
+                    "label": "Etsy Banners",
+                    "link": "/etsy-banner-maker"
+                  },
+                  {
+                    "label": "Tumblr Banners",
+                    "link": "/tumblr-banner-maker"
+                  }
+                ]
+              },
+              {
+                "label": "Social Media Posts",
+                "links": [
+                  {
+                    "label": "Instagram Posts",
+                    "link": "/instagram-post-maker"
+                  },
+                  {
+                    "label": "Instagram Stories",
+                    "link": "/instagram-story-maker"
+                  },
+                  {
+                    "label": "Facebook Posts",
+                    "link": "/facebook-post-maker"
+                  },
+                  {
+                    "label": "Facebook Stories",
+                    "link": "/facebook-story-maker"
+                  },
+                  {
+                    "label": "Facebook Ads",
+                    "link": "/facebook-ad-maker"
+                  },
+                  {
+                    "label": "Twitter Posts",
+                    "link": "/twitter-post-maker"
+                  },
+                  {
+                    "label": "LinkedIn Posts",
+                    "link": "/linkedin-post-maker"
+                  },
+                  {
+                    "label": "Pinterest Pins",
+                    "link": "/pinterest-pin-maker"
+                  },
+                  {
+                    "label": "TikTok Videos",
+                    "link": "/tiktok-video-maker"
+                  },
+                  {
+                    "label": "Instagram Reels",
+                    "link": "/instagram-reel-maker"
+                  },
+                  {
+                    "label": "YouTube Shorts",
+                    "link": "/youtube-short-maker"
+                  },
+                  {
+                    "label": "YouTube Videos",
+                    "link": "/youtube-video-maker"
+                  },
+                  {
+                    "label": "Whatsapp Stories",
+                    "link": "/whatsapp-story-maker"
+                  },
+                  {
+                    "label": "Snapchat Designs",
+                    "link": "/snapchat-maker"
+                  }
+                ]
+              },
+              {
+                "label": "Social Media Profile Pictures",
+                "links": [
+                  {
+                    "label": "Facebook Profile Pictures",
+                    "link": "/facebook-profile-picture-maker"
+                  },
+                  {
+                    "label": "Instagram Profile Pictures",
+                    "link": "/instagram-profile-picture-maker"
+                  },
+                  {
+                    "label": "LinkedIn Profile Pictures",
+                    "link": "/linkedin-profile-picture-maker"
+                  },
+                  {
+                    "label": "Pinterest Profile Pictures",
+                    "link": "/pinterest-profile-picture-maker"
+                  },
+                  {
+                    "label": "SoundCloud Profile Pictures",
+                    "link": "/soundcloud-profile-picture-maker"
+                  },
+                  {
+                    "label": "Tumblr Profile Pictures",
+                    "link": "/tumblr-profile-picture-maker"
+                  },
+                  {
+                    "label": "Twitch Profile Pictures",
+                    "link": "/twitch-profile-picture-maker"
+                  },
+                  {
+                    "label": "YouTube Channel Icons",
+                    "link": "/youtube-channel-icon-maker"
+                  }
+                ]
+              }
+            ]
+          },
+          "more": {
+            "label": "More",
+            "optionalItems": {
+              "qrCode": {
+                "label": "QR Codes",
+                "link": "/qr-code-generator"
+              },
+              "presentations": {
+                "label": "Presentations",
+                "link": "/presentation-maker"
+              }
+            },
+            "children": [
+              {
+                "links": [
+                  {
+                    "label": "Email Signatures",
+                    "link": "/email-signature-maker"
+                  },
+                  {
+                    "label": "Letterheads",
+                    "link": "/letterhead-maker"
+                  },
+                  {
+                    "label": "Posters",
+                    "link": "/poster-maker"
+                  },
+                  {
+                    "label": "Flyers",
+                    "link": "/flyer-maker"
+                  },
+                  {
+                    "label": "Invoices",
+                    "link": "/invoice-maker"
+                  },
+                  {
+                    "label": "Menus",
+                    "link": "/menu-maker"
+                  },
+                  {
+                    "label": "Postcards",
+                    "link": "/postcard-maker"
+                  },
+                  {
+                    "label": "Gift Certificates",
+                    "link": "/gift-certificate-maker"
+                  },
+                  {
+                    "label": "Invitations",
+                    "link": "/invitation-maker"
+                  },
+                  {
+                    "label": "Thank You Cards",
+                    "link": "/thank-you-card-maker"
+                  },
+                  {
+                    "label": "Videos",
+                    "link": "/video-maker"
+                  },
+                  {
+                    "label": "Animations",
+                    "link": "/animation-maker"
+                  },
+                  {
+                    "label": "T-Shirts",
+                    "link": "/t-shirt-maker"
+                  }
+                ]
+              }
+            ]
+          },
+          "websites": {
+            "label": "Websites",
+            "link": "/website-builder",
+            "items": {
+              "websiteBuilder": {
+                "label": "Website Builder",
+                "link": "/website-builder"
+              },
+              "linkInBio": {
+                "label": "Link in Bio",
+                "link": "/link-in-bio"
+              },
+              "digitalBusinessCard": {
+                "label": "Digital Business Cards",
+                "link": "/digital-business-card"
+              },
+              "domainNames": {
+                "label": "Domain Names",
+                "link": "/domain-names"
+              }
+            }
+          },
+          "ai": {
+            "label": "AI",
+            "link": "/ai",
+            "items": {
+              "backgroundRemover": {
+                "label": "AI Background Remover",
+                "link": "/background-remover"
+              },
+              "businessNameGenerator": {
+                "label": "AI Business Name Generator",
+                "link": "/business-name-generator"
+              },
+              "aiLogoGenerator": {
+                "label": "AI Logo Generator",
+                "link": "/ai-logo-generator"
+              },
+              "aiDomainNames": {
+                "label": "AI Domain Name Generator",
+                "link": "/ai-domain-name-generator"
+              },
+              "aiWebsiteGenerator": {
+                "label": "AI Website Generator",
+                "link": "/ai-website-generator"
+              },
+              "aiBusinessCardGenerator": {
+                "label": "AI Business Card Generator",
+                "link": "/ai-business-card-generator"
+              },
+              "aiFlyerGenerator": {
+                "label": "AI Flyer Generator",
+                "link": "/ai-flyer-generator"
+              },
+              "aiPosterGenerator": {
+                "label": "AI Poster Generator",
+                "link": "/ai-poster-generator"
+              },
+              "aiLinkInBioGenerator": {
+                "label": "AI Link in Bio Generator",
+                "link": "/ai-link-in-bio-generator"
+              },
+              "aiPresentationGenerator": {
+                "label": "AI Presentation Generator",
+                "link": "/ai-presentation-maker"
+              }
+            }
+          }
+        },
+        "myAccountNav": {
+          "myAccountLabel": "My Account",
+          "loginLabel": "Log in",
+          "logosLabel": "Logos",
+          "logoRootPath": "/maker/mylogos",
+          "designsLabel": "All Designs",
+          "designsPath": "/maker/mydesigns",
+          "logoTemplatesPath": "/maker/mydesigns/default/templatetypes",
+          "manageWebPagePath": "/maker/website/manage",
+          "manageDomainNamesPath": "/maker/domain-names",
+          "createDomainNamesPath": "/maker/domain-names/new",
+          "savedDesignsLabel": "Saved Designs",
+          "logoDraftsPath": "/maker/savedlogos/drafts",
+          "shortlistPath": "/maker/shortlist",
+          "draftBusinessCardPath": "/maker/savedbusinesscards/drafts",
+          "businessCardShortlistPath": "/business-card-shortlist",
+          "designShortlistPath": "/design-shortlist",
+          "websiteShortlistPath": "/website-shortlist",
+          "draftDesignsPath": "/maker/saveddesigns/drafts",
+          "printLabel": "Printing",
+          "printPath": "/maker/mylogos/printings",
+          "accountSettingsLabel": "Account Settings",
+          "accountSettingsPath": "/maker/account/settings",
+          "upgradeAccountLabel": "Upgrade Account",
+          "upgradeAccountPath": "/maker/logo/upgrade-account?nav=menu_upgrade_account",
+          "myLogosHeaderLink": "MyLogosHeaderLink",
+          "createNewDesignLabel": "Create New Design",
+          "createNewDesignPath": "/maker/mydesigns/default/templatetypes",
+          "logoutLabel": "Sign Out",
+          "logoutPath": "/maker/account/logout",
+          "pollsLabel": "Create A Poll",
+          "managePollsLabel": "Manage Polls",
+          "websiteLabel": "Websites",
+          "domainsLabel": "Domains",
+          "newPollsPath": "/polls/new",
+          "myPollsPath": "/polls/my-polls",
+          "loginModalTitle": "Log in to your account",
+          "loginModalDescription": "Enter your email address to log in to your account",
+          "loginModalButtonLabel": "Login"
+        }
+      },
+      "footer": {
+        "copyright": {
+          "label": "Copyright",
+          "allRightsReservedLabel": "All Rights Reserved.",
+          "statementText": "All individual works are copyright protected by their respective owners & contributors.",
+          "bonusText": "Design.com is handcrafted from around the world"
+        },
+        "links": {
+          "companyTitle": "Company",
+          "aiTitle": "AI",
+          "logoMaker": {
+            "label": "Logo Maker",
+            "link": "/logo-maker"
+          },
+          "logoTemplates": {
+            "label": "Logo Templates",
+            "link": "/maker/logos"
+          },
+          "logoIdeas": {
+            "label": "Logo Ideas",
+            "link": "/maker/logo-ideas"
+          },
+          "businessCardMaker": {
+            "label": "Business card maker",
+            "link": "/business-card-maker"
+          },
+          "freeLogos": {
+            "label": "Free Logos",
+            "link": "/maker/free-logos"
+          },
+          "freeBusinessCards": {
+            "label": "Free Business Cards",
+            "link": "/business-card-maker/free-business-cards"
+          },
+          "businessNameGenerator": {
+            "label": "AI Business Name Generator",
+            "link": "/business-name-generator"
+          },
+          "aiLogoGenerator": {
+            "label": "AI Logo Generator",
+            "link": "/ai-logo-generator"
+          },
+          "backgroundRemover": {
+            "label": "AI Background Remover",
+            "link": "/background-remover"
+          },
+          "customDesign": {
+            "label": "Custom Design",
+            "link": "https://www.designcrowd.com"
+          },
+          "websiteBuilder": {
+            "label": "Website Builder",
+            "link": "/website-builder"
+          },
+          "linkInBio": {
+            "label": "Link in Bio",
+            "link": "/link-in-bio"
+          },
+          "digitalBusinessCard": {
+            "label": "Digital Business Cards",
+            "link": "/digital-business-card"
+          },
+          "aiDomainNameGenerator": {
+            "label": "AI Domain Name Generator",
+            "link": "/ai-domain-name-generator"
+          },
+          "domainNames": {
+            "label": "Domain Names",
+            "link": "/domain-names"
+          },
+          "about": {
+            "label": "About us",
+            "link": "/maker/about"
+          },
+          "blog": {
+            "label": "Blog",
+            "link": "https://www.brandcrowd.com/blog/"
+          },
+          "affiliate": {
+            "label": "Affiliate program",
+            "link": "/maker/affiliate"
+          },
+          "contactUs": {
+            "label": "Contact us",
+            "link": "/maker/contact"
+          },
+          "legal": {
+            "label": "Legals",
+            "link": "/maker/legals/termsofuse"
+          },
+          "privacyPolicy": {
+            "label": "Privacy policy",
+            "link": "/maker/legals/privacy"
+          },
+          "sellLogos": {
+            "label": "Sell Logos",
+            "link": "/maker/sell-logos"
+          },
+          "cookies": {
+            "label": "Cookies",
+            "link": "/maker/cookies"
+          },
+          "aiDesignTools": {
+            "label": "AI Design Tools",
+            "link": "/ai"
+          },
+          "aiWebsiteGenerator": {
+            "label": "AI Website Generator",
+            "link": "/ai-website-generator"
+          },
+          "aiBusinessCardGenerator": {
+            "label": "AI Business Card Generator",
+            "link": "/ai-business-card-generator"
+          },
+          "aiFlyerGenerator": {
+            "label": "AI Flyer Generator",
+            "link": "/ai-flyer-generator"
+          },
+          "aiPosterGenerator": {
+            "label": "AI Poster Generator",
+            "link": "/ai-poster-generator"
+          },
+          "aiLinkInBioGenerator": {
+            "label": "AI Link in Bio Generator",
+            "link": "/ai-link-in-bio-generator"
+          },
+          "aiPresentationGenerator": {
+            "label": "AI Presentation Generator",
+            "link": "/ai-presentation-maker"
+          }
+        },
+        "popularResources": {
+          "standardTitle": "Find a logo",
+          "fullWidthTitle": "Logos",
+          "resources": {
+            "app": {
+              "label": "App Logo",
+              "link": "/maker/tag/app"
+            },
+            "bakery": {
+              "label": "Bakery Logo",
+              "link": "/maker/tag/bakery"
+            },
+            "beauty": {
+              "label": "Beauty Logo",
+              "link": "/maker/tag/beauty"
+            },
+            "brand": {
+              "label": "Brand Logo",
+              "link": "/maker/tag/brand"
+            },
+            "business": {
+              "label": "Business Logo",
+              "link": "/maker/tag/business"
+            },
+            "camera": {
+              "label": "Camera Logo",
+              "link": "/maker/tag/camera"
+            },
+            "coffee": {
+              "label": "Coffee Logo",
+              "link": "/maker/tag/coffee"
+            },
+            "company": {
+              "label": "Company Logo",
+              "link": "/maker/tag/company"
+            },
+            "construction": {
+              "label": "Construction Logo",
+              "link": "/maker/tag/construction"
+            },
+            "crown": {
+              "label": "Crown Logo",
+              "link": "/maker/tag/crown"
+            },
+            "dj": {
+              "label": "Dj Logo",
+              "link": "/maker/tag/dj"
+            },
+            "doctor": {
+              "label": "Doctor Logo",
+              "link": "/maker/tag/doctor"
+            },
+            "eagle": {
+              "label": "Eagle Logo",
+              "link": "/maker/tag/eagle"
+            },
+            "education": {
+              "label": "Education Logo",
+              "link": "/maker/tag/education"
+            },
+            "fashion": {
+              "label": "Fashion Logo",
+              "link": "/maker/tag/fashion"
+            },
+            "font": {
+              "label": "Font Logo",
+              "link": "/maker/tag/font"
+            },
+            "food": {
+              "label": "Food Logo",
+              "link": "/maker/tag/food"
+            },
+            "gaming": {
+              "label": "Gaming Logo",
+              "link": "/maker/tag/gaming"
+            },
+            "gym": {
+              "label": "Gym Logo",
+              "link": "/maker/tag/gym"
+            },
+            "letter": {
+              "label": "Letter Logo",
+              "link": "/maker/tag/letter"
+            },
+            "lion": {
+              "label": "Lion Logo",
+              "link": "/maker/tag/lion"
+            },
+            "mountain": {
+              "label": "Mountain Logo",
+              "link": "/maker/tag/mountain"
+            },
+            "music": {
+              "label": "Music Logo",
+              "link": "/maker/tag/music"
+            },
+            "name": {
+              "label": "Name Logo",
+              "link": "/maker/tag/name"
+            },
+            "photography": {
+              "label": "Photography Logo",
+              "link": "/maker/tag/photography"
+            },
+            "realEstate": {
+              "label": "Real Estate Logo",
+              "link": "/maker/tag/real-estate"
+            },
+            "restaurant": {
+              "label": "Restaurant Logo",
+              "link": "/maker/tag/restaurant"
+            },
+            "shop": {
+              "label": "Shop Logo",
+              "link": "/maker/tag/shop"
+            },
+            "socialMedia": {
+              "label": "Social Media Logo",
+              "link": "/maker/tag/social-media"
+            },
+            "sports": {
+              "label": "Sports Logo",
+              "link": "/maker/tag/sports"
+            },
+            "car": {
+              "label": "Car Logo",
+              "link": "/maker/tag/car"
+            },
+            "monogram": {
+              "label": "Monogram Logo",
+              "link": "/maker/tag/monogram"
+            },
+            "school": {
+              "label": "School Logo",
+              "link": "/maker/tag/school"
+            },
+            "youtube": {
+              "label": "Youtube Logo",
+              "link": "/maker/tag/youtube"
+            },
+            "threeD": {
+              "label": "3D Logo",
+              "link": "/maker/tag/3d"
+            },
+            "cool": {
+              "label": "Cool Logo",
+              "link": "/maker/tag/cool"
+            },
+            "circle": {
+              "label": "Circle Logo",
+              "link": "/maker/tag/circle"
+            },
+            "cartoon": {
+              "label": "Cartoon Logo",
+              "link": "/maker/tag/cartoon"
+            },
+            "travel": {
+              "label": "Travel Logo",
+              "link": "/maker/tag/travel"
+            },
+            "cafe": {
+              "label": "Cafe Logo",
+              "link": "/maker/tag/cafe"
+            },
+            "podcast": {
+              "label": "Podcast Logo",
+              "link": "/maker/tag/podcast"
+            },
+            "text": {
+              "label": "Text Logo",
+              "link": "/maker/tag/text"
+            },
+            "icon": {
+              "label": "Icon Logo",
+              "link": "/maker/tag/icon"
+            },
+            "word": {
+              "label": "Word Logo",
+              "link": "/maker/tag/word"
+            },
+            "team": {
+              "label": "Team Logo",
+              "link": "/maker/tag/team"
+            },
+            "barber": {
+              "label": "Barber Logo",
+              "link": "/maker/tag/barber"
+            },
+            "web": {
+              "label": "Web Logo",
+              "link": "/maker/tag/web"
+            },
+            "pizza": {
+              "label": "Pizza Logo",
+              "link": "/maker/tag/pizza"
+            },
+            "simple": {
+              "label": "Simple Logo",
+              "link": "/maker/tag/simple"
+            },
+            "symbol": {
+              "label": "Symbol Logo",
+              "link": "/maker/tag/symbol"
+            },
+            "football": {
+              "label": "Football Logo",
+              "link": "/maker/tag/football"
+            }
+          }
+        },
+        "social": {
+          "title": "Social media",
+          "links": [
+            {
+              "type": "facebook",
+              "link": "https://www.facebook.com/design.com.official"
+            },
+            {
+              "type": "twitter",
+              "link": "https://twitter.com/design_dot_com"
+            },
+            {
+              "type": "instagram",
+              "link": "https://www.instagram.com/design.com.official/"
+            }
+          ]
+        },
+        "designTemplates": {
+          "standardTitle": "Design Templates",
+          "fullWidthTitle": "Create Designs",
+          "facebookPosts": {
+            "label": "Facebook Posts",
+            "link": "/facebook-post-maker"
+          },
+          "facebookStories": {
+            "label": "Facebook Stories",
+            "link": "/facebook-story-maker"
+          },
+          "facebookCovers": {
+            "label": "Facebook Covers",
+            "link": "/facebook-cover-maker"
+          },
+          "facebookEvents": {
+            "label": "Facebook Events",
+            "link": "/facebook-event-cover-maker"
+          },
+          "facebookAds": {
+            "label": "Facebook Ads",
+            "link": "/facebook-ad-maker"
+          },
+          "facebookProfilePictures": {
+            "label": "Facebook Profile Pictures",
+            "link": "/facebook-profile-picture-maker"
+          },
+          "instagramPosts": {
+            "label": "Instagram Posts",
+            "link": "/instagram-post-maker"
+          },
+          "instagramReels": {
+            "label": "Instagram Reels",
+            "link": "/instagram-reel-maker"
+          },
+          "instagramStories": {
+            "label": "Instagram Stories",
+            "link": "/instagram-story-maker"
+          },
+          "instagramProfilePictures": {
+            "label": "Instagram Profile Pictures",
+            "link": "/instagram-profile-picture-maker"
+          },
+          "linkedinBanners": {
+            "label": "LinkedIn Banners",
+            "link": "/linkedin-banner-maker"
+          },
+          "linkedinPosts": {
+            "label": "LinkedIn Posts",
+            "link": "/linkedin-post-maker"
+          },
+          "linkedinProfilePictures": {
+            "label": "LinkedIn Profile Pictures",
+            "link": "/linkedin-profile-picture-maker"
+          },
+          "pinterestPins": {
+            "label": "Pinterest Pins",
+            "link": "/pinterest-pin-maker"
+          },
+          "pinterestCovers": {
+            "label": "Pinterest Covers",
+            "link": "/pinterest-board-cover-maker"
+          },
+          "pinterestProfilePictures": {
+            "label": "Pinterest Profile Pictures",
+            "link": "/pinterest-profile-picture-maker"
+          },
+          "snapchatDesigns": {
+            "label": "Snapchat Designs",
+            "link": "/snapchat-maker"
+          },
+          "soundcloudBanners": {
+            "label": "SoundCloud Banners",
+            "link": "/soundcloud-banner-maker"
+          },
+          "soundcloudProfilePictures": {
+            "label": "SoundCloud Profile Pictures",
+            "link": "/soundcloud-profile-picture-maker"
+          },
+          "tiktokVideos": {
+            "label": "TikTok Videos",
+            "link": "/tiktok-video-maker"
+          },
+          "tumblrProfilePictures": {
+            "label": "Tumblr Profile Pictures",
+            "link": "/tumblr-profile-picture-maker"
+          },
+          "tumblrBanners": {
+            "label": "Tumblr Banners",
+            "link": "/tumblr-banner-maker"
+          },
+          "twitchBanners": {
+            "label": "Twitch Banners",
+            "link": "/twitch-banner-maker"
+          },
+          "twitchProfilePictures": {
+            "label": "Twitch Profile Pictures",
+            "link": "/twitch-profile-picture-maker"
+          },
+          "twitterHeaders": {
+            "label": "Twitter Headers",
+            "link": "/twitter-header-maker"
+          },
+          "twitterPosts": {
+            "label": "Twitter Posts",
+            "link": "/twitter-post-maker"
+          },
+          "whatsappStories": {
+            "label": "Whatsapp Stories",
+            "link": "/whatsapp-story-maker"
+          },
+          "youtubeBanners": {
+            "label": "YouTube Banners",
+            "link": "/youtube-cover-maker"
+          },
+          "youtubeShorts": {
+            "label": "YouTube Shorts",
+            "link": "/youtube-short-maker"
+          },
+          "youtubeVideos": {
+            "label": "YouTube Videos",
+            "link": "/youtube-video-maker"
+          },
+          "youtubeChannelIcons": {
+            "label": "YouTube Channel Icons",
+            "link": "/youtube-channel-icon-maker"
+          },
+          "zoomBackgrounds": {
+            "label": "Zoom Backgrounds",
+            "link": "/zoom-background-maker"
+          },
+          "emailSignatures": {
+            "label": "Email Signatures",
+            "link": "/email-signature-maker"
+          },
+          "invoices": {
+            "label": "Invoices",
+            "link": "/invoice-maker"
+          },
+          "menus": {
+            "label": "Menus",
+            "link": "/menu-maker"
+          },
+          "flyers": {
+            "label": "Flyers",
+            "link": "/flyer-maker"
+          },
+          "postcards": {
+            "label": "Postcards",
+            "link": "/postcard-maker"
+          },
+          "posters": {
+            "label": "Posters",
+            "link": "/poster-maker"
+          },
+          "giftCertificates": {
+            "label": "Gift Certificates",
+            "link": "/gift-certificate-maker"
+          },
+          "invitations": {
+            "label": "Invitations",
+            "link": "/invitation-maker"
+          },
+          "thankYouCards": {
+            "label": "Thank You Cards",
+            "link": "/thank-you-card-maker"
+          },
+          "tShirts": {
+            "label": "T-Shirts",
+            "link": "/t-shirt-maker"
+          },
+          "videos": {
+            "label": "Videos",
+            "link": "/video-maker"
+          },
+          "animations": {
+            "label": "Animations",
+            "link": "/animation-maker"
+          },
+          "letterheads": {
+            "label": "Letterheads",
+            "link": "/letterhead-maker"
+          },
+          "etsyBanners": {
+            "label": "Etsy Banners",
+            "link": "/etsy-banner-maker"
+          },
+          "qrCodes": {
+            "label": "QR Code",
+            "link": "/qr-code-generator"
+          },
+          "presentations": {
+            "label": "Presentations",
+            "link": "/presentation-maker"
+          }
+        }
+      },
+      "signIn": {
+        "authModal": {
+          "default": {
+            "title": "View your designs",
+            "description": "Enter your email address to view your designs"
+          },
+          "logoMakerDownload": {
+            "title": "Download your logo",
+            "description": "Enter your email to edit and download your logo"
+          },
+          "logoMakerSave": {
+            "title": "Start Editing",
+            "description": "Enter your email and start editing your logo"
+          },
+          "websiteMakerDownload": {
+            "title": "Purchase your website",
+            "description": "Enter your email & start hosting your own website"
+          },
+          "uploadUserLogo": {
+            "title": "Keep track of your uploaded logo",
+            "description": "Enter your email to upload your logo"
+          },
+          "landing": {
+            "title": "View your designs",
+            "description": "Enter your email address to view your designs"
+          },
+          "shortlist": {
+            "title": "Save your favourite logos",
+            "description": "Enter your email & we'll save your favourite logos"
+          },
+          "businessCardShortlist": {
+            "title": "Save your favourite business cards",
+            "description": "Enter your email & we'll save your favourite business cards"
+          },
+          "designShortlist": {
+            "title": "Save your favourite designs",
+            "description": "Enter your email & we'll save your favourite designs"
+          },
+          "insistTerms": {
+            "title": "Confirm your email address",
+            "description": "Confirm your email address"
+          },
+          "saveOnLanding": {
+            "title": "Save progress",
+            "description": "Enter your email & we'll save your work automatically"
+          },
+          "save": {
+            "title": "Save progress",
+            "description": "Enter your email & we'll save your work automatically"
+          },
+          "download": {
+            "title": "Download your {0}",
+            "description": "Where should we send the design files?"
+          },
+          "print": {
+            "title": "Print your {0}",
+            "description": "Where should we send the design files?"
+          },
+          "backgroundRemover": {
+            "title": "Sign up to upload your image",
+            "description": "Enter your email to upload your image"
+          },
+          "mandatory": {
+            "title": "Save your favourite designs",
+            "description": "Enter your email & we'll save your favourite designs"
+          }
+        },
+        "emailPlaceholderLabel": "Email address",
+        "emailLabel": "Email",
+        "passwordPlaceholderLabel": "Password",
+        "forgotPasswordLabel": "Forgot Password?",
+        "orLabel": "or",
+        "signUpLabel": "Sign Up",
+        "loginLabel": "Login",
+        "alreadyHaveAnAccountLabel": "Already have an account?",
+        "termsAndConditions": {
+          "label": "By proceeding you accept our {termsOfUseLabel} and {privacyPolicyLabel} and agree to receive future updates from Design.com",
+          "termsOfUseLabel": "Terms of Use",
+          "privacyPolicyLabel": "Privacy Policy"
+        },
+        "loginWithFacebookLabel": "Continue with Facebook",
+        "loginWithGoogleLabel": "Continue with Google",
+        "invalidUsernameErrorLabel": "Please enter a valid email address",
+        "missingPasswordErrorLabel": "Please enter a password",
+        "submissionButtonLabel": "Continue",
+        "forgotPassword": {
+          "resendPasswordEmailLabel": "RESEND EMAIL",
+          "resetPasswordLabel": "RESET PASSWORD",
+          "rememberedPasswordLabel": "It's ok, I remembered my password",
+          "goBackToLoginLabel": "Go back to login",
+          "emailAddressPlaceholderLabel": "Email address",
+          "emailLabel": "Email",
+          "description": "Enter your email below. We will then send a reset-password link to your email address.",
+          "title": "Forgot your password?"
+        }
+      },
+      "myAccount": {
+        "pageTabs": {
+          "logosLabel": "Logos",
+          "logosWithCountLabel": "Logos ([logoCount])",
+          "allDesignsLabel": "All Designs",
+          "allDesignsWithCountLabel": "All Designs ([allDesignsCount])",
+          "printingLabel": "Printing",
+          "websitesLabel": "Websites",
+          "websitesWithCountLabel": "Websites ([websitesCount])",
+          "domainsLabel": "Domains",
+          "domainsWithCountLabel": "Domains ([domainsCount])",
+          "settingsLabel": "Account Settings"
+        }
+      }
+    }
+  }
+  }
