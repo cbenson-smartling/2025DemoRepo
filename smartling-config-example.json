@@ -27,7 +27,7 @@
          {
             "type"                      : "json",
             "authorizeContent"          : false,
-            "pathRegex"                 : "*\\.json",
+            "pathRegex"                 : "*.json",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
          },
 
