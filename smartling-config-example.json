@@ -27,14 +27,14 @@
          {
             "type"                      : "json",
             "authorizeContent"          : false,
-            "pathRegex"                 : "*.json",
+            "pathRegex"                 : ".*.json",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
          },
 
          
          {
            "type"                      : "javaProperties",
-           "pathRegex"                 : "*.properties",
+           "pathRegex"                 : ".*.properties",
            "translationPathExpression" : "Translated_${locale}_${originalFile.name}",
            "smartlingDirectives"       : [
                 "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
