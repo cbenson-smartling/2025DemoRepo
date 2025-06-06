@@ -1,0 +1,29 @@
+{
+  "smartling": {
+    
+      
+    "entity_escaping": "true",
+    "variants_enabled" : "true",
+    "translate_paths": [{
+      "path": "*/message",
+      "key": "{*}/message",
+    
+      "instruction": "*/description", "string_format" : "icu"
+    }
+  ]
+  },
+  "content_asset_1": {
+    "message": "[across] {categoryCount, plural, =0 {No categories} =1 {1 category} other {{categoryCount} categories}}",
+    "description": "This is a [new] instruction added in the review step"
+  },
+  "content_asset_2": {
+    "message": "You have tested this %out%",
+    "markdown": "You have _markdown content for translation_",
+    "description": "Markdown %testing% field, keep as Markdown i.e. do not remove additional characters"
+  },
+  "content_asset_3": {
+    "message": "Placeholder test: ##put## that word in a placeholder",
+    "markdown": "Placeholder test: **5 pages**",
+    "description": "Markdown testing field, ##keep## as Markdown i.e. do not remove additional characters"
+  }
+}
